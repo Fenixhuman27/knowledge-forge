@@ -1,0 +1,40 @@
+[
+  {
+    "announcements": {
+      "oai/apps/hasDismissedAG8PqS2q": "2024-05-20T12:08:39.143015",
+      "oai/apps/hasSeenAdvancedVoice/2024-09-24": "2025-07-17T00:25:16.747154+00:00",
+      "oai/apps/hasSeenAdvancedVoiceRealWebNuxTooltip": "2025-03-05T12:14:18.821658+00:00",
+      "oai/apps/hasSeenArtifactsLearnMoreModal": "2026-06-24T02:20:43.099036+00:00",
+      "oai/apps/hasSeenAutoSwitchNux": "2025-12-12T03:36:55.737756+00:00",
+      "oai/apps/hasSeenBurritoNux": "2025-08-10T22:24:46.646782+00:00",
+      "oai/apps/hasSeenComposerCaterpillarButtonTooltip": "2025-04-28T00:27:35.824947+00:00",
+      "oai/apps/hasSeenComposerSearchButtonTooltip": "2025-03-05T12:09:10.270417+00:00",
+      "oai/apps/hasSeenContextConnectorTooltip": "2024-06-21T13:22:21.740295",
+      "oai/apps/hasSeenDalleEditingOnboarding": "2025-05-19T11:57:09.730753+00:00",
+      "oai/apps/hasSeenImage2026RevampNux": "2026-04-22T01:24:10.861100+00:00",
+      "oai/apps/hasSeenLocaleBanner": "2024-02-05T13:47:06.037211",
+      "oai/apps/hasSeenMemoryOnboarding": "2024-06-30T23:03:19.130937",
+      "oai/apps/hasSeenMemoryUpdatedTooltip": "2025-12-14T20:04:01.478414+00:00",
+      "oai/apps/hasSeenMoonshineNuxV2": "2025-06-13T21:17:36.391824+00:00",
+      "oai/apps/hasSeenOnboarding": "2023-12-20T13:19:32.238127",
+      "oai/apps/hasSeenSearchTooltip": "2025-03-12T12:52:59.743945+00:00",
+      "oai/apps/hasSeenThinkInComposer": "2025-02-08T12:41:21.170783+00:00",
+      "oai/apps/hasSeenWhisperNux": "2025-04-04T03:15:33.273258+00:00",
+      "oai/apps/hasSeenl1239dk1LaunchNux": "2026-04-05T22:55:31.355922+00:00",
+      "oai/apps/hasUserContextFirstTime/2023-06-29": "2024-02-05T13:22:17.883753"
+    },
+    "beta_settings": {},
+    "habitat_object_version": 35742605,
+    "settings": {
+      "first_party_project_pins_unmigrated": true,
+      "moonshine": true,
+      "project_pins_backfilled": true,
+      "show_expanded_code_view": false,
+      "study_mode_project_pins_unmigrated": true,
+      "sunshine": true,
+      "training_allowed": true,
+      "voice_name": "ember"
+    },
+    "user_id": "user-NNpn9N7lCjyy8yaCECHPjw21"
+  }
+]
