@@ -1,7 +1,9 @@
 import os
+import json
 from src.parser.chatgpt_parser import cargar_conversaciones, resumir_conversacion
 
 CARPETA_DATOS = "data"
+CARPETA_SALIDA = "output"
 
 
 def buscar_archivos_conversaciones():
@@ -15,7 +17,7 @@ def buscar_archivos_conversaciones():
 
 def procesar_todo():
     archivos = buscar_archivos_conversaciones()
-    total_conversaciones = 0
+    resultados = []
 
     for archivo in archivos:
         conversaciones = cargar_conversaciones(archivo)
@@ -24,9 +26,16 @@ def procesar_todo():
         for conv in conversaciones:
             resumen = resumir_conversacion(conv)
             print(f"- [{resumen['fecha']}] {resumen['titulo']} ({resumen['cantidad_mensajes']} mensajes)")
-            total_conversaciones += 1
+            resultados.append(resumen)
 
-    print(f"\nTOTAL: {total_conversaciones} conversaciones procesadas en {len(archivos)} archivos")
+    print(f"\nTOTAL: {len(resultados)} conversaciones procesadas en {len(archivos)} archivos")
+
+    os.makedirs(CARPETA_SALIDA, exist_ok=True)
+    ruta_salida = os.path.join(CARPETA_SALIDA, "resumen.json")
+    with open(ruta_salida, "w", encoding="utf-8") as f:
+        json.dump(resultados, f, ensure_ascii=False, indent=2)
+
+    print(f"Resumen guardado en {ruta_salida}")
 
 
 if __name__ == "__main__":
