@@ -7,7 +7,6 @@ CARPETA_VAULT = "vault/conversaciones"
 
 
 def limpiar_nombre_archivo(texto):
-    """Convierte un titulo en un nombre de archivo seguro para el sistema operativo."""
     texto = texto.strip()
     texto = re.sub(r'[\\/*?:"<>|]', "", texto)
     texto = texto[:80]
@@ -15,7 +14,6 @@ def limpiar_nombre_archivo(texto):
 
 
 def conversacion_a_markdown(conversacion):
-    """Convierte una conversacion completa en texto Markdown para Obsidian."""
     resumen = resumir_conversacion(conversacion)
     mensajes = extraer_mensajes(conversacion)
 
@@ -31,13 +29,19 @@ def conversacion_a_markdown(conversacion):
     lineas.append("")
 
     for m in mensajes:
-        autor = "🧑 Usuario" if m["autor"] == "user" else "🤖 Asistente"
+        autor = "Usuario" if m["autor"] == "user" else "Asistente"
         lineas.append(f"### {autor}")
         lineas.append("")
         lineas.append(m["texto"])
         lineas.append("")
 
     return "\n".join(lineas)
+
+
+def nombre_archivo_unico(conversacion, resumen):
+    nombre_seguro = limpiar_nombre_archivo(resumen["titulo"])
+    id_corto = conversacion.get("conversation_id", "")[:8]
+    return f"{resumen['fecha']} - {nombre_seguro} - {id_corto}.md"
 
 
 def exportar_archivo(nombre_archivo):
@@ -47,8 +51,8 @@ def exportar_archivo(nombre_archivo):
 
     for conv in conversaciones:
         resumen = resumir_conversacion(conv)
-        nombre_seguro = limpiar_nombre_archivo(resumen["titulo"])
-        ruta_nota = os.path.join(CARPETA_VAULT, f"{resumen['fecha']} - {nombre_seguro}.md")
+        nombre = nombre_archivo_unico(conv, resumen)
+        ruta_nota = os.path.join(CARPETA_VAULT, nombre)
 
         contenido = conversacion_a_markdown(conv)
         with open(ruta_nota, "w", encoding="utf-8") as f:
