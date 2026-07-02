@@ -3,9 +3,13 @@ titulo: "Colectiveros Uruguayanos."
 fecha: 2023-03-30
 mensajes: 2
 origen: ChatGPT
+tags:
+  - uruguay
 ---
 
 # Colectiveros Uruguayanos.
+
+Temas: #uruguay
 
 ### Usuario
 

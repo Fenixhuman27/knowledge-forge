@@ -3,9 +3,14 @@ titulo: "Estrategias de persuasión efectivas"
 fecha: 2025-01-05
 mensajes: 6
 origen: ChatGPT
+tags:
+  - tecnologia
+  - religion
 ---
 
 # Estrategias de persuasión efectivas
+
+Temas: #tecnologia, #religion
 
 ### Usuario
 

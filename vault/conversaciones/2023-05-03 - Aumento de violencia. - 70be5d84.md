@@ -3,9 +3,13 @@ titulo: "Aumento de violencia."
 fecha: 2023-05-03
 mensajes: 4
 origen: ChatGPT
+tags:
+  - tecnologia
 ---
 
 # Aumento de violencia.
+
+Temas: #tecnologia
 
 ### Usuario
 

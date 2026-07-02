@@ -3,9 +3,13 @@ titulo: "Cuban emigration to Uruguay"
 fecha: 2023-05-06
 mensajes: 2
 origen: ChatGPT
+tags:
+  - uruguay
 ---
 
 # Cuban emigration to Uruguay
+
+Temas: #uruguay
 
 ### Usuario
 

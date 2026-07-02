@@ -3,9 +3,14 @@ titulo: "Trabajo como chofer."
 fecha: 2026-06-29
 mensajes: 4
 origen: ChatGPT
+tags:
+  - trabajo
+  - religion
 ---
 
 # Trabajo como chofer.
+
+Temas: #trabajo, #religion
 
 ### Usuario
 

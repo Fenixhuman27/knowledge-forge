@@ -3,9 +3,13 @@ titulo: "Crear historia realista"
 fecha: 2024-08-23
 mensajes: 10
 origen: ChatGPT
+tags:
+  - tecnologia
 ---
 
 # Crear historia realista
+
+Temas: #tecnologia
 
 ### Usuario
 

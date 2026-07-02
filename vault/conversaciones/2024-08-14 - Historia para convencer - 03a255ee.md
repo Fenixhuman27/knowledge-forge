@@ -3,9 +3,13 @@ titulo: "Historia para convencer"
 fecha: 2024-08-14
 mensajes: 4
 origen: ChatGPT
+tags:
+  - tecnologia
 ---
 
 # Historia para convencer
+
+Temas: #tecnologia
 
 ### Usuario
 

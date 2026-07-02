@@ -3,9 +3,13 @@ titulo: "Pensamiento cotidiano y técnico"
 fecha: 2024-12-01
 mensajes: 16
 origen: ChatGPT
+tags:
+  - tecnologia
 ---
 
 # Pensamiento cotidiano y técnico
+
+Temas: #tecnologia
 
 ### Usuario
 

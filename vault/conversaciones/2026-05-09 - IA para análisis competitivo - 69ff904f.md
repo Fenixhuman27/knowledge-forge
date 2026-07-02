@@ -3,9 +3,13 @@ titulo: "IA para análisis competitivo"
 fecha: 2026-05-09
 mensajes: 29
 origen: ChatGPT
+tags:
+  - tecnologia
 ---
 
 # IA para análisis competitivo
+
+Temas: #tecnologia
 
 ### Usuario
 

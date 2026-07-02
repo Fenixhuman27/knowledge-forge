@@ -3,9 +3,13 @@ titulo: "Ideas para variar comidas"
 fecha: 2024-11-08
 mensajes: 4
 origen: ChatGPT
+tags:
+  - tecnologia
 ---
 
 # Ideas para variar comidas
+
+Temas: #tecnologia
 
 ### Usuario
 

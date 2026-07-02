@@ -3,9 +3,13 @@ titulo: "Centennial Discordancia Virtual"
 fecha: 2024-04-30
 mensajes: 4
 origen: ChatGPT
+tags:
+  - tecnologia
 ---
 
 # Centennial Discordancia Virtual
+
+Temas: #tecnologia
 
 ### Usuario
 

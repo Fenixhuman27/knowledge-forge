@@ -3,9 +3,13 @@ titulo: "Texto persuasivo musical"
 fecha: 2026-05-20
 mensajes: 8
 origen: ChatGPT
+tags:
+  - musica
 ---
 
 # Texto persuasivo musical
+
+Temas: #musica
 
 ### Usuario
 

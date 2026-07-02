@@ -3,9 +3,14 @@ titulo: "Terapia de pareja enfoques"
 fecha: 2023-10-26
 mensajes: 16
 origen: ChatGPT
+tags:
+  - relaciones
+  - tecnologia
 ---
 
 # Terapia de pareja enfoques
+
+Temas: #relaciones, #tecnologia
 
 ### Usuario
 

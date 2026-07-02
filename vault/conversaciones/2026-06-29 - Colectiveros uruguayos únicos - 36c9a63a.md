@@ -3,9 +3,13 @@ titulo: "Colectiveros uruguayos únicos"
 fecha: 2026-06-29
 mensajes: 2
 origen: ChatGPT
+tags:
+  - uruguay
 ---
 
 # Colectiveros uruguayos únicos
+
+Temas: #uruguay
 
 ### Usuario
 

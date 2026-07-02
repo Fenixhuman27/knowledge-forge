@@ -3,9 +3,13 @@ titulo: "Trucos para Xiaomi Redmi"
 fecha: 2025-12-04
 mensajes: 2
 origen: ChatGPT
+tags:
+  - tecnologia
 ---
 
 # Trucos para Xiaomi Redmi
+
+Temas: #tecnologia
 
 ### Usuario
 

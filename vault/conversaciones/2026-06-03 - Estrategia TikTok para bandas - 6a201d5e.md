@@ -3,9 +3,14 @@ titulo: "Estrategia TikTok para bandas"
 fecha: 2026-06-03
 mensajes: 55
 origen: ChatGPT
+tags:
+  - tecnologia
+  - musica
 ---
 
 # Estrategia TikTok para bandas
+
+Temas: #tecnologia, #musica
 
 ### Usuario
 

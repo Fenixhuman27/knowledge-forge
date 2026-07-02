@@ -3,9 +3,14 @@ titulo: "Biblia completa proyecto"
 fecha: 2025-04-19
 mensajes: 29
 origen: ChatGPT
+tags:
+  - tecnologia
+  - religion
 ---
 
 # Biblia completa proyecto
+
+Temas: #tecnologia, #religion
 
 ### Usuario
 

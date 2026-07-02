@@ -3,9 +3,13 @@ titulo: "Buscar Fotos Misioneros Uruguay."
 fecha: 2024-02-23
 mensajes: 2
 origen: ChatGPT
+tags:
+  - uruguay
 ---
 
 # Buscar Fotos Misioneros Uruguay.
+
+Temas: #uruguay
 
 ### Usuario
 

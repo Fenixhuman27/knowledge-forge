@@ -3,9 +3,14 @@ titulo: "Diferencia entre Alprazolam y Bromazepam"
 fecha: 2023-05-16
 mensajes: 2
 origen: ChatGPT
+tags:
+  - tecnologia
+  - religion
 ---
 
 # Diferencia entre Alprazolam y Bromazepam
+
+Temas: #tecnologia, #religion
 
 ### Usuario
 

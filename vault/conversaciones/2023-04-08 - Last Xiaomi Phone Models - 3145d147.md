@@ -3,9 +3,13 @@ titulo: "Last Xiaomi Phone Models"
 fecha: 2023-04-08
 mensajes: 4
 origen: ChatGPT
+tags:
+  - tecnologia
 ---
 
 # Last Xiaomi Phone Models
+
+Temas: #tecnologia
 
 ### Usuario
 

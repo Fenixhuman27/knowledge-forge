@@ -3,9 +3,13 @@ titulo: "Sistema maestro de trabajo"
 fecha: 2026-04-04
 mensajes: 28
 origen: ChatGPT
+tags:
+  - trabajo
 ---
 
 # Sistema maestro de trabajo
+
+Temas: #trabajo
 
 ### Usuario
 

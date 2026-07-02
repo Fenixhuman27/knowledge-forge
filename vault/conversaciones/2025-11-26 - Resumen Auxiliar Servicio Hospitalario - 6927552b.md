@@ -3,9 +3,13 @@ titulo: "Resumen Auxiliar Servicio Hospitalario"
 fecha: 2025-11-26
 mensajes: 10
 origen: ChatGPT
+tags:
+  - tecnologia
 ---
 
 # Resumen Auxiliar Servicio Hospitalario
+
+Temas: #tecnologia
 
 ### Usuario
 

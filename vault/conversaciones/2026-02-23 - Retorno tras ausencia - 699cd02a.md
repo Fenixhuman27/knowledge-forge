@@ -3,9 +3,13 @@ titulo: "Retorno tras ausencia"
 fecha: 2026-02-23
 mensajes: 16
 origen: ChatGPT
+tags:
+  - tecnologia
 ---
 
 # Retorno tras ausencia
+
+Temas: #tecnologia
 
 ### Usuario
 

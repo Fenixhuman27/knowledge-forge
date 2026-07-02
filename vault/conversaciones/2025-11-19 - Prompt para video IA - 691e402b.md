@@ -3,9 +3,13 @@ titulo: "Prompt para video IA"
 fecha: 2025-11-19
 mensajes: 2
 origen: ChatGPT
+tags:
+  - tecnologia
 ---
 
 # Prompt para video IA
+
+Temas: #tecnologia
 
 ### Usuario
 

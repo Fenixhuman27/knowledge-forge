@@ -3,9 +3,13 @@ titulo: "Alimentos con fitoestrógenos para lactancia"
 fecha: 2024-10-27
 mensajes: 8
 origen: ChatGPT
+tags:
+  - tecnologia
 ---
 
 # Alimentos con fitoestrógenos para lactancia
+
+Temas: #tecnologia
 
 ### Usuario
 

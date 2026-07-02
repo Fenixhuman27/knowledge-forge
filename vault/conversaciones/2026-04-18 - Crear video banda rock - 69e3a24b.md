@@ -3,9 +3,13 @@ titulo: "Crear video banda rock"
 fecha: 2026-04-18
 mensajes: 8
 origen: ChatGPT
+tags:
+  - musica
 ---
 
 # Crear video banda rock
+
+Temas: #musica
 
 ### Asistente
 

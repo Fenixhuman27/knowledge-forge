@@ -3,9 +3,13 @@ titulo: "Prompt para evaluar IA"
 fecha: 2026-04-25
 mensajes: 32
 origen: ChatGPT
+tags:
+  - tecnologia
 ---
 
 # Prompt para evaluar IA
+
+Temas: #tecnologia
 
 ### Usuario
 

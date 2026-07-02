@@ -3,9 +3,13 @@ titulo: "Mario Labitola: Tragedia y Resiliencia"
 fecha: 2024-01-17
 mensajes: 8
 origen: ChatGPT
+tags:
+  - tecnologia
 ---
 
 # Mario Labitola: Tragedia y Resiliencia
+
+Temas: #tecnologia
 
 ### Usuario
 

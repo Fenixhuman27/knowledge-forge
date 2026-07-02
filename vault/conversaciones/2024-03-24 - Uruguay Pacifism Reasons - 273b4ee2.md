@@ -3,9 +3,13 @@ titulo: "Uruguay Pacifism Reasons"
 fecha: 2024-03-24
 mensajes: 4
 origen: ChatGPT
+tags:
+  - uruguay
 ---
 
 # Uruguay Pacifism Reasons
+
+Temas: #uruguay
 
 ### Usuario
 

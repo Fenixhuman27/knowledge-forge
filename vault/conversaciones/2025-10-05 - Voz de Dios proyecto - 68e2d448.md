@@ -3,9 +3,13 @@ titulo: "Voz de Dios proyecto"
 fecha: 2025-10-05
 mensajes: 8
 origen: ChatGPT
+tags:
+  - religion
 ---
 
 # Voz de Dios proyecto
+
+Temas: #religion
 
 ### Usuario
 

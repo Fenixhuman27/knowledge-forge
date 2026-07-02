@@ -3,9 +3,13 @@ titulo: "Religiones y mitologías humanas"
 fecha: 2025-05-10
 mensajes: 8
 origen: ChatGPT
+tags:
+  - religion
 ---
 
 # Religiones y mitologías humanas
+
+Temas: #religion
 
 ### Usuario
 

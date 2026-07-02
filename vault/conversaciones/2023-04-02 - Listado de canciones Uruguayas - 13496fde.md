@@ -3,9 +3,14 @@ titulo: "Listado de canciones Uruguayas"
 fecha: 2023-04-02
 mensajes: 19
 origen: ChatGPT
+tags:
+  - musica
+  - uruguay
 ---
 
 # Listado de canciones Uruguayas
+
+Temas: #musica, #uruguay
 
 ### Usuario
 

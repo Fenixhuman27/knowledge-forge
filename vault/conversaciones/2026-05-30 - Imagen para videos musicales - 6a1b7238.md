@@ -3,9 +3,13 @@ titulo: "Imagen para videos musicales"
 fecha: 2026-05-30
 mensajes: 6
 origen: ChatGPT
+tags:
+  - musica
 ---
 
 # Imagen para videos musicales
+
+Temas: #musica
 
 ### Usuario
 

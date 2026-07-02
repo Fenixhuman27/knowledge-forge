@@ -3,9 +3,13 @@ titulo: "Crear chatbot AI"
 fecha: 2023-05-27
 mensajes: 4
 origen: ChatGPT
+tags:
+  - tecnologia
 ---
 
 # Crear chatbot AI
+
+Temas: #tecnologia
 
 ### Usuario
 

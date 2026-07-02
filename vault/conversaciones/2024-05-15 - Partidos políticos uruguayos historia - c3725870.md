@@ -3,9 +3,14 @@ titulo: "Partidos políticos uruguayos: historia"
 fecha: 2024-05-15
 mensajes: 8
 origen: ChatGPT
+tags:
+  - tecnologia
+  - uruguay
 ---
 
 # Partidos políticos uruguayos: historia
+
+Temas: #tecnologia, #uruguay
 
 ### Usuario
 

@@ -3,9 +3,13 @@ titulo: "Conflict: Jews vs Palestinians"
 fecha: 2026-06-29
 mensajes: 2
 origen: ChatGPT
+tags:
+  - tecnologia
 ---
 
 # Conflict: Jews vs Palestinians
+
+Temas: #tecnologia
 
 ### Usuario
 

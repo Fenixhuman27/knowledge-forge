@@ -3,9 +3,13 @@ titulo: "Lunes en Montevideo"
 fecha: 2026-03-02
 mensajes: 208
 origen: ChatGPT
+tags:
+  - uruguay
 ---
 
 # Lunes en Montevideo
+
+Temas: #uruguay
 
 ### Usuario
 

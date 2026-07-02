@@ -3,9 +3,13 @@ titulo: "Nocturne's Wake Estrategia"
 fecha: 2026-05-10
 mensajes: 4
 origen: ChatGPT
+tags:
+  - tecnologia
 ---
 
 # Nocturne's Wake Estrategia
+
+Temas: #tecnologia
 
 ### Usuario
 

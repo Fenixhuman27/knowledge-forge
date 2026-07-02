@@ -3,9 +3,13 @@ titulo: "Estrategia viral sin spam"
 fecha: 2026-04-28
 mensajes: 6
 origen: ChatGPT
+tags:
+  - tecnologia
 ---
 
 # Estrategia viral sin spam
+
+Temas: #tecnologia
 
 ### Usuario
 

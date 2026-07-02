@@ -3,9 +3,13 @@ titulo: "Uruguay: Fútbol Histórico"
 fecha: 2023-04-11
 mensajes: 4
 origen: ChatGPT
+tags:
+  - uruguay
 ---
 
 # Uruguay: Fútbol Histórico
+
+Temas: #uruguay
 
 ### Usuario
 

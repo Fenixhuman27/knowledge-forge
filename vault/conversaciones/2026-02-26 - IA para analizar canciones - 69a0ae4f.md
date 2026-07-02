@@ -3,9 +3,14 @@ titulo: "IA para analizar canciones"
 fecha: 2026-02-26
 mensajes: 8
 origen: ChatGPT
+tags:
+  - tecnologia
+  - musica
 ---
 
 # IA para analizar canciones
+
+Temas: #tecnologia, #musica
 
 ### Usuario
 

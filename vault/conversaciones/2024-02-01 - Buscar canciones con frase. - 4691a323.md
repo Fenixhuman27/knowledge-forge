@@ -3,9 +3,13 @@ titulo: "Buscar canciones con frase."
 fecha: 2024-02-01
 mensajes: 4
 origen: ChatGPT
+tags:
+  - musica
 ---
 
 # Buscar canciones con frase.
+
+Temas: #musica
 
 ### Usuario
 

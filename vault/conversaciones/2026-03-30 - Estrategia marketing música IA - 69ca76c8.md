@@ -3,9 +3,13 @@ titulo: "Estrategia marketing música IA"
 fecha: 2026-03-30
 mensajes: 4
 origen: ChatGPT
+tags:
+  - tecnologia
 ---
 
 # Estrategia marketing música IA
+
+Temas: #tecnologia
 
 ### Usuario
 

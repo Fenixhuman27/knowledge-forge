@@ -3,9 +3,13 @@ titulo: "Partidos políticos en Uruguay"
 fecha: 2024-05-15
 mensajes: 2
 origen: ChatGPT
+tags:
+  - uruguay
 ---
 
 # Partidos políticos en Uruguay
+
+Temas: #uruguay
 
 ### Usuario
 

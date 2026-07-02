@@ -3,9 +3,13 @@ titulo: "Creación foto realista banda"
 fecha: 2026-03-29
 mensajes: 15
 origen: ChatGPT
+tags:
+  - musica
 ---
 
 # Creación foto realista banda
+
+Temas: #musica
 
 ### Usuario
 

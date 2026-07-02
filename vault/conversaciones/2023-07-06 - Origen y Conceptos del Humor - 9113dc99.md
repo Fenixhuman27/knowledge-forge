@@ -3,9 +3,13 @@ titulo: "Origen y Conceptos del Humor"
 fecha: 2023-07-06
 mensajes: 4
 origen: ChatGPT
+tags:
+  - humor
 ---
 
 # Origen y Conceptos del Humor
+
+Temas: #humor
 
 ### Usuario
 

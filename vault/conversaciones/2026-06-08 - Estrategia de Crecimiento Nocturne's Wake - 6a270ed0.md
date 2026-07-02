@@ -3,9 +3,13 @@ titulo: "Estrategia de Crecimiento Nocturne's Wake"
 fecha: 2026-06-08
 mensajes: 16
 origen: ChatGPT
+tags:
+  - tecnologia
 ---
 
 # Estrategia de Crecimiento Nocturne's Wake
+
+Temas: #tecnologia
 
 ### Usuario
 

@@ -3,9 +3,13 @@ titulo: "Twitter Text Help"
 fecha: 2024-01-28
 mensajes: 4
 origen: ChatGPT
+tags:
+  - redes_sociales
 ---
 
 # Twitter Text Help
+
+Temas: #redes_sociales
 
 ### Usuario
 

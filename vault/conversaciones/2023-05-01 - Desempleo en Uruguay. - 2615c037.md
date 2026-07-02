@@ -3,9 +3,14 @@ titulo: "Desempleo en Uruguay."
 fecha: 2023-05-01
 mensajes: 2
 origen: ChatGPT
+tags:
+  - trabajo
+  - uruguay
 ---
 
 # Desempleo en Uruguay.
+
+Temas: #trabajo, #uruguay
 
 ### Usuario
 

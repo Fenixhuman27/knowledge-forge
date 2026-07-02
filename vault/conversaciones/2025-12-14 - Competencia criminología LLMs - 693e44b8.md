@@ -3,9 +3,13 @@ titulo: "Competencia criminología LLMs"
 fecha: 2025-12-14
 mensajes: 6
 origen: ChatGPT
+tags:
+  - tecnologia
 ---
 
 # Competencia criminología LLMs
+
+Temas: #tecnologia
 
 ### Usuario
 

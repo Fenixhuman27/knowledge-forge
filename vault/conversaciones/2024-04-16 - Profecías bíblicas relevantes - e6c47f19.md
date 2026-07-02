@@ -3,9 +3,13 @@ titulo: "Profecías bíblicas relevantes"
 fecha: 2024-04-16
 mensajes: 2
 origen: ChatGPT
+tags:
+  - religion
 ---
 
 # Profecías bíblicas relevantes
+
+Temas: #religion
 
 ### Usuario
 

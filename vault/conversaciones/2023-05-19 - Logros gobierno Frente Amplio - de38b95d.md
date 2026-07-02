@@ -3,9 +3,13 @@ titulo: "Logros gobierno Frente Amplio"
 fecha: 2023-05-19
 mensajes: 20
 origen: ChatGPT
+tags:
+  - politica
 ---
 
 # Logros gobierno Frente Amplio
+
+Temas: #politica
 
 ### Usuario
 

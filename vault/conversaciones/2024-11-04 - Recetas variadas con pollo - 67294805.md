@@ -3,9 +3,13 @@ titulo: "Recetas variadas con pollo"
 fecha: 2024-11-04
 mensajes: 2
 origen: ChatGPT
+tags:
+  - tecnologia
 ---
 
 # Recetas variadas con pollo
+
+Temas: #tecnologia
 
 ### Usuario
 

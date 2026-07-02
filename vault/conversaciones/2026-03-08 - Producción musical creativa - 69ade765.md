@@ -3,9 +3,13 @@ titulo: "Producción musical creativa"
 fecha: 2026-03-08
 mensajes: 40
 origen: ChatGPT
+tags:
+  - musica
 ---
 
 # Producción musical creativa
+
+Temas: #musica
 
 ### Usuario
 

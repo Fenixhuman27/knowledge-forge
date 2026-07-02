@@ -3,9 +3,13 @@ titulo: "Problema Call of Duty Xiaomi"
 fecha: 2025-12-29
 mensajes: 4
 origen: ChatGPT
+tags:
+  - tecnologia
 ---
 
 # Problema Call of Duty Xiaomi
+
+Temas: #tecnologia
 
 ### Usuario
 

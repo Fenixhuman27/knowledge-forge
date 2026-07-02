@@ -3,9 +3,13 @@ titulo: "Bandas 90s/00s Negros similares"
 fecha: 2024-01-23
 mensajes: 2
 origen: ChatGPT
+tags:
+  - musica
 ---
 
 # Bandas 90s/00s Negros similares
+
+Temas: #musica
 
 ### Usuario
 

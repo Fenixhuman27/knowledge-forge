@@ -3,9 +3,14 @@ titulo: "Proyecto musical con IA"
 fecha: 2026-03-24
 mensajes: 70
 origen: ChatGPT
+tags:
+  - tecnologia
+  - musica
 ---
 
 # Proyecto musical con IA
+
+Temas: #tecnologia, #musica
 
 ### Usuario
 

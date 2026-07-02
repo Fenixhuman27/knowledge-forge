@@ -3,9 +3,13 @@ titulo: "Análisis y Estrategia IA"
 fecha: 2026-05-15
 mensajes: 44
 origen: ChatGPT
+tags:
+  - tecnologia
 ---
 
 # Análisis y Estrategia IA
+
+Temas: #tecnologia
 
 ### Usuario
 

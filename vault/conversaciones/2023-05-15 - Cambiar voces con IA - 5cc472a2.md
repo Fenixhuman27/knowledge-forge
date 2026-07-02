@@ -3,9 +3,13 @@ titulo: "Cambiar voces con IA"
 fecha: 2023-05-15
 mensajes: 6
 origen: ChatGPT
+tags:
+  - tecnologia
 ---
 
 # Cambiar voces con IA
+
+Temas: #tecnologia
 
 ### Usuario
 

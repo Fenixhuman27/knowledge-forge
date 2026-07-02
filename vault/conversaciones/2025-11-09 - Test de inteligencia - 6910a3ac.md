@@ -3,9 +3,13 @@ titulo: "Test de inteligencia"
 fecha: 2025-11-09
 mensajes: 6
 origen: ChatGPT
+tags:
+  - tecnologia
 ---
 
 # Test de inteligencia
+
+Temas: #tecnologia
 
 ### Usuario
 

@@ -3,9 +3,13 @@ titulo: "Material de estudio auxiliar"
 fecha: 2025-11-20
 mensajes: 4
 origen: ChatGPT
+tags:
+  - tecnologia
 ---
 
 # Material de estudio auxiliar
+
+Temas: #tecnologia
 
 ### Usuario
 

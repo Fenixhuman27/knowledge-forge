@@ -3,9 +3,14 @@ titulo: "Creación de canciones IA"
 fecha: 2026-02-24
 mensajes: 348
 origen: ChatGPT
+tags:
+  - tecnologia
+  - musica
 ---
 
 # Creación de canciones IA
+
+Temas: #tecnologia, #musica
 
 ### Usuario
 

@@ -3,9 +3,14 @@ titulo: "Historia y Origen Musical"
 fecha: 2026-05-01
 mensajes: 2
 origen: ChatGPT
+tags:
+  - tecnologia
+  - musica
 ---
 
 # Historia y Origen Musical
+
+Temas: #tecnologia, #musica
 
 ### Asistente
 

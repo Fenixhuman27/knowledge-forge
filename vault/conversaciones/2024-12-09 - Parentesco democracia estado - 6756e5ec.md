@@ -3,9 +3,13 @@ titulo: "Parentesco democracia estado"
 fecha: 2024-12-09
 mensajes: 2
 origen: ChatGPT
+tags:
+  - tecnologia
 ---
 
 # Parentesco democracia estado
+
+Temas: #tecnologia
 
 ### Usuario
 

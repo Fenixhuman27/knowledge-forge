@@ -3,9 +3,13 @@ titulo: "Colectiveros cómicos uruguayos."
 fecha: 2026-06-29
 mensajes: 2
 origen: ChatGPT
+tags:
+  - uruguay
 ---
 
 # Colectiveros cómicos uruguayos.
+
+Temas: #uruguay
 
 ### Usuario
 

@@ -3,9 +3,13 @@ titulo: "Juego Interactivo en Twitter"
 fecha: 2024-03-18
 mensajes: 2
 origen: ChatGPT
+tags:
+  - redes_sociales
 ---
 
 # Juego Interactivo en Twitter
+
+Temas: #redes_sociales
 
 ### Usuario
 

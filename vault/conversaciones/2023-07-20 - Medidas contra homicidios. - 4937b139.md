@@ -3,9 +3,13 @@ titulo: "Medidas contra homicidios."
 fecha: 2023-07-20
 mensajes: 2
 origen: ChatGPT
+tags:
+  - religion
 ---
 
 # Medidas contra homicidios.
+
+Temas: #religion
 
 ### Usuario
 

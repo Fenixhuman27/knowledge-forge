@@ -3,9 +3,13 @@ titulo: "Carta de amor y perdón"
 fecha: 2024-02-01
 mensajes: 8
 origen: ChatGPT
+tags:
+  - relaciones
 ---
 
 # Carta de amor y perdón
+
+Temas: #relaciones
 
 ### Usuario
 

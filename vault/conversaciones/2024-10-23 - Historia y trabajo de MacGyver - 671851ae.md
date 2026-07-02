@@ -3,9 +3,14 @@ titulo: "Historia y trabajo de MacGyver"
 fecha: 2024-10-23
 mensajes: 2
 origen: ChatGPT
+tags:
+  - trabajo
+  - tecnologia
 ---
 
 # Historia y trabajo de MacGyver
+
+Temas: #trabajo, #tecnologia
 
 ### Usuario
 

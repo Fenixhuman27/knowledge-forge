@@ -3,9 +3,13 @@ titulo: "Mejorar propuesta laboral"
 fecha: 2025-10-14
 mensajes: 4
 origen: ChatGPT
+tags:
+  - trabajo
 ---
 
 # Mejorar propuesta laboral
+
+Temas: #trabajo
 
 ### Usuario
 

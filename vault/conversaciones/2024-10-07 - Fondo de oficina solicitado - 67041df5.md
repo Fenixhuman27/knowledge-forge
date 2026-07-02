@@ -3,9 +3,13 @@ titulo: "Fondo de oficina solicitado"
 fecha: 2024-10-07
 mensajes: 11
 origen: ChatGPT
+tags:
+  - trabajo
 ---
 
 # Fondo de oficina solicitado
+
+Temas: #trabajo
 
 ### Usuario
 

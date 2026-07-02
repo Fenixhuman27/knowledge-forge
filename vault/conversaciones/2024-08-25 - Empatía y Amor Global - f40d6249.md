@@ -3,9 +3,13 @@ titulo: "Empatía y Amor Global"
 fecha: 2024-08-25
 mensajes: 8
 origen: ChatGPT
+tags:
+  - relaciones
 ---
 
 # Empatía y Amor Global
+
+Temas: #relaciones
 
 ### Usuario
 

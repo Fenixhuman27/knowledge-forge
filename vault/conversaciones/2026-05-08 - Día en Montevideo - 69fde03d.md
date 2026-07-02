@@ -3,9 +3,13 @@ titulo: "Día en Montevideo"
 fecha: 2026-05-08
 mensajes: 18
 origen: ChatGPT
+tags:
+  - uruguay
 ---
 
 # Día en Montevideo
+
+Temas: #uruguay
 
 ### Usuario
 

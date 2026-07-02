@@ -3,9 +3,13 @@ titulo: "Remedios naturales para resfrío"
 fecha: 2024-10-05
 mensajes: 14
 origen: ChatGPT
+tags:
+  - religion
 ---
 
 # Remedios naturales para resfrío
+
+Temas: #religion
 
 ### Usuario
 

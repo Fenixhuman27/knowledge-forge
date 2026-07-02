@@ -3,9 +3,13 @@ titulo: "Revisión de pitch editorial"
 fecha: 2026-05-23
 mensajes: 8
 origen: ChatGPT
+tags:
+  - tecnologia
 ---
 
 # Revisión de pitch editorial
+
+Temas: #tecnologia
 
 ### Usuario
 

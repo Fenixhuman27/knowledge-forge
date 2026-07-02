@@ -3,9 +3,13 @@ titulo: "Recuperar audición saludable"
 fecha: 2024-12-13
 mensajes: 2
 origen: ChatGPT
+tags:
+  - salud
 ---
 
 # Recuperar audición saludable
+
+Temas: #salud
 
 ### Usuario
 

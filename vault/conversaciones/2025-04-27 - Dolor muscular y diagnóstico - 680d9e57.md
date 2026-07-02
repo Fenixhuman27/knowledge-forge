@@ -3,9 +3,14 @@ titulo: "Dolor muscular y diagnóstico"
 fecha: 2025-04-27
 mensajes: 8
 origen: ChatGPT
+tags:
+  - salud
+  - tecnologia
 ---
 
 # Dolor muscular y diagnóstico
+
+Temas: #salud, #tecnologia
 
 ### Usuario
 

@@ -3,9 +3,13 @@ titulo: "Futuro de la IA"
 fecha: 2025-12-02
 mensajes: 2
 origen: ChatGPT
+tags:
+  - tecnologia
 ---
 
 # Futuro de la IA
+
+Temas: #tecnologia
 
 ### Usuario
 

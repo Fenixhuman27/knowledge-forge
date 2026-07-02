@@ -3,9 +3,14 @@ titulo: "Estrategias para banda exitosa"
 fecha: 2026-04-28
 mensajes: 4
 origen: ChatGPT
+tags:
+  - tecnologia
+  - musica
 ---
 
 # Estrategias para banda exitosa
+
+Temas: #tecnologia, #musica
 
 ### Usuario
 

@@ -1,6 +1,7 @@
 import os
 import re
 from src.parser.chatgpt_parser import cargar_conversaciones, extraer_mensajes, resumir_conversacion
+from src.parser.temas import detectar_temas
 
 CARPETA_DATOS = "data"
 CARPETA_VAULT = "vault/conversaciones"
@@ -16,6 +17,7 @@ def limpiar_nombre_archivo(texto):
 def conversacion_a_markdown(conversacion):
     resumen = resumir_conversacion(conversacion)
     mensajes = extraer_mensajes(conversacion)
+    temas = detectar_temas(resumen["titulo"])
 
     lineas = []
     lineas.append("---")
@@ -23,10 +25,18 @@ def conversacion_a_markdown(conversacion):
     lineas.append(f"fecha: {resumen['fecha']}")
     lineas.append(f"mensajes: {resumen['cantidad_mensajes']}")
     lineas.append("origen: ChatGPT")
+    if temas:
+        lineas.append("tags:")
+        for tema in temas:
+            lineas.append(f"  - {tema}")
     lineas.append("---")
     lineas.append("")
     lineas.append(f"# {resumen['titulo']}")
     lineas.append("")
+
+    if temas:
+        lineas.append("Temas: " + ", ".join(f"#{t}" for t in temas))
+        lineas.append("")
 
     for m in mensajes:
         autor = "Usuario" if m["autor"] == "user" else "Asistente"

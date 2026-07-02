@@ -3,9 +3,14 @@ titulo: "Estrategia de Lanzamiento Musical"
 fecha: 2026-04-11
 mensajes: 12
 origen: ChatGPT
+tags:
+  - tecnologia
+  - musica
 ---
 
 # Estrategia de Lanzamiento Musical
+
+Temas: #tecnologia, #musica
 
 ### Usuario
 

@@ -3,9 +3,13 @@ titulo: "Divisiones políticas en Uruguay"
 fecha: 2026-06-29
 mensajes: 2
 origen: ChatGPT
+tags:
+  - uruguay
 ---
 
 # Divisiones políticas en Uruguay
+
+Temas: #uruguay
 
 ### Usuario
 

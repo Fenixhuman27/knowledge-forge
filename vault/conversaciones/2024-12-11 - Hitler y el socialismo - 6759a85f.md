@@ -3,9 +3,13 @@ titulo: "Hitler y el socialismo"
 fecha: 2024-12-11
 mensajes: 4
 origen: ChatGPT
+tags:
+  - tecnologia
 ---
 
 # Hitler y el socialismo
+
+Temas: #tecnologia
 
 ### Usuario
 

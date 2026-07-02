@@ -3,9 +3,13 @@ titulo: "Estrategia de crecimiento cultural"
 fecha: 2026-05-19
 mensajes: 6
 origen: ChatGPT
+tags:
+  - tecnologia
 ---
 
 # Estrategia de crecimiento cultural
+
+Temas: #tecnologia
 
 ### Usuario
 

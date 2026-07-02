@@ -3,9 +3,14 @@ titulo: "Fotografía profesional banda rock"
 fecha: 2026-04-10
 mensajes: 8
 origen: ChatGPT
+tags:
+  - religion
+  - musica
 ---
 
 # Fotografía profesional banda rock
+
+Temas: #religion, #musica
 
 ### Usuario
 

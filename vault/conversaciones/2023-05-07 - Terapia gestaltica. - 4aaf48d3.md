@@ -3,9 +3,13 @@ titulo: "Terapia gestaltica."
 fecha: 2023-05-07
 mensajes: 22
 origen: ChatGPT
+tags:
+  - tecnologia
 ---
 
 # Terapia gestaltica.
+
+Temas: #tecnologia
 
 ### Usuario
 

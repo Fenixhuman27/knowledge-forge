@@ -3,9 +3,14 @@ titulo: "Defensa de la experiencia"
 fecha: 2026-02-14
 mensajes: 4
 origen: ChatGPT
+tags:
+  - tecnologia
+  - religion
 ---
 
 # Defensa de la experiencia
+
+Temas: #tecnologia, #religion
 
 ### Usuario
 

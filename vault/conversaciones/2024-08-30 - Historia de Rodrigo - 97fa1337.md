@@ -3,9 +3,13 @@ titulo: "Historia de Rodrigo"
 fecha: 2024-08-30
 mensajes: 6
 origen: ChatGPT
+tags:
+  - tecnologia
 ---
 
 # Historia de Rodrigo
+
+Temas: #tecnologia
 
 ### Usuario
 

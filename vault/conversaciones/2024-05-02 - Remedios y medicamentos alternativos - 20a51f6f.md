@@ -3,9 +3,13 @@ titulo: "Remedios y medicamentos alternativos"
 fecha: 2024-05-02
 mensajes: 4
 origen: ChatGPT
+tags:
+  - religion
 ---
 
 # Remedios y medicamentos alternativos
+
+Temas: #religion
 
 ### Usuario
 

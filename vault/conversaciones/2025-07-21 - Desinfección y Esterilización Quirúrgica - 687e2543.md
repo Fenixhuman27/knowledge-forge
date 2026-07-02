@@ -3,9 +3,13 @@ titulo: "Desinfección y Esterilización Quirúrgica"
 fecha: 2025-07-21
 mensajes: 2
 origen: ChatGPT
+tags:
+  - religion
 ---
 
 # Desinfección y Esterilización Quirúrgica
+
+Temas: #religion
 
 ### Usuario
 

@@ -3,9 +3,13 @@ titulo: "Perfil defensivo y arrogante."
 fecha: 2026-06-29
 mensajes: 2
 origen: ChatGPT
+tags:
+  - religion
 ---
 
 # Perfil defensivo y arrogante.
+
+Temas: #religion
 
 ### Usuario
 

@@ -3,9 +3,13 @@ titulo: "Estrategia de marketing IA"
 fecha: 2026-03-30
 mensajes: 20
 origen: ChatGPT
+tags:
+  - tecnologia
 ---
 
 # Estrategia de marketing IA
+
+Temas: #tecnologia
 
 ### Usuario
 

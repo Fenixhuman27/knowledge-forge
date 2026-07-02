@@ -3,9 +3,13 @@ titulo: "Prompt para Meta IA"
 fecha: 2026-05-06
 mensajes: 11
 origen: ChatGPT
+tags:
+  - tecnologia
 ---
 
 # Prompt para Meta IA
+
+Temas: #tecnologia
 
 ### Asistente
 

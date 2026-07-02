@@ -3,9 +3,13 @@ titulo: "Información pública Uruguay."
 fecha: 2026-06-29
 mensajes: 2
 origen: ChatGPT
+tags:
+  - uruguay
 ---
 
 # Información pública Uruguay.
+
+Temas: #uruguay
 
 ### Usuario
 

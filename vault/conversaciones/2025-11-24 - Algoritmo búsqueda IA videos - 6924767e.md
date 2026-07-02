@@ -3,9 +3,13 @@ titulo: "Algoritmo búsqueda IA videos"
 fecha: 2025-11-24
 mensajes: 2
 origen: ChatGPT
+tags:
+  - tecnologia
 ---
 
 # Algoritmo búsqueda IA videos
+
+Temas: #tecnologia
 
 ### Usuario
 

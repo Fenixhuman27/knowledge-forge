@@ -3,9 +3,13 @@ titulo: "Aumento de hierro natural"
 fecha: 2024-10-14
 mensajes: 2
 origen: ChatGPT
+tags:
+  - salud
 ---
 
 # Aumento de hierro natural
+
+Temas: #salud
 
 ### Usuario
 

@@ -3,9 +3,14 @@ titulo: "Estrategia de crecimiento musical"
 fecha: 2026-04-11
 mensajes: 35
 origen: ChatGPT
+tags:
+  - tecnologia
+  - musica
 ---
 
 # Estrategia de crecimiento musical
+
+Temas: #tecnologia, #musica
 
 ### Usuario
 

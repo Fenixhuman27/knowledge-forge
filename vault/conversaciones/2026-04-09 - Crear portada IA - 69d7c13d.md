@@ -3,9 +3,13 @@ titulo: "Crear portada IA"
 fecha: 2026-04-09
 mensajes: 8
 origen: ChatGPT
+tags:
+  - tecnologia
 ---
 
 # Crear portada IA
+
+Temas: #tecnologia
 
 ### Asistente
 

@@ -3,9 +3,13 @@ titulo: "Prioridades de financiación social"
 fecha: 2024-10-28
 mensajes: 8
 origen: ChatGPT
+tags:
+  - tecnologia
 ---
 
 # Prioridades de financiación social
+
+Temas: #tecnologia
 
 ### Usuario
 

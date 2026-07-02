@@ -3,9 +3,13 @@ titulo: "Dolor y malestar estomacal"
 fecha: 2024-10-16
 mensajes: 22
 origen: ChatGPT
+tags:
+  - salud
 ---
 
 # Dolor y malestar estomacal
+
+Temas: #salud
 
 ### Usuario
 

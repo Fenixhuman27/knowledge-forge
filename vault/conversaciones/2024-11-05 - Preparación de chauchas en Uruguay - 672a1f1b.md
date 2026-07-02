@@ -3,9 +3,13 @@ titulo: "Preparación de chauchas en Uruguay"
 fecha: 2024-11-05
 mensajes: 4
 origen: ChatGPT
+tags:
+  - uruguay
 ---
 
 # Preparación de chauchas en Uruguay
+
+Temas: #uruguay
 
 ### Usuario
 

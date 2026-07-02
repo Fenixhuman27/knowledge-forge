@@ -3,9 +3,14 @@ titulo: "Rutina saludable diaria"
 fecha: 2025-08-27
 mensajes: 321
 origen: ChatGPT
+tags:
+  - salud
+  - tecnologia
 ---
 
 # Rutina saludable diaria
+
+Temas: #salud, #tecnologia
 
 ### Usuario
 

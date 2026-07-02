@@ -3,9 +3,14 @@ titulo: "Resistencia antifascista en Uruguay"
 fecha: 2024-03-02
 mensajes: 4
 origen: ChatGPT
+tags:
+  - tecnologia
+  - uruguay
 ---
 
 # Resistencia antifascista en Uruguay
+
+Temas: #tecnologia, #uruguay
 
 ### Usuario
 

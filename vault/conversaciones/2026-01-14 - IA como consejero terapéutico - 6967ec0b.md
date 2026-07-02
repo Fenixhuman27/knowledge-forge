@@ -3,9 +3,13 @@ titulo: "IA como consejero terapéutico"
 fecha: 2026-01-14
 mensajes: 2
 origen: ChatGPT
+tags:
+  - tecnologia
 ---
 
 # IA como consejero terapéutico
+
+Temas: #tecnologia
 
 ### Usuario
 

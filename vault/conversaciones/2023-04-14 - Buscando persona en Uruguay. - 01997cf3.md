@@ -3,9 +3,13 @@ titulo: "Buscando persona en Uruguay."
 fecha: 2023-04-14
 mensajes: 28
 origen: ChatGPT
+tags:
+  - uruguay
 ---
 
 # Buscando persona en Uruguay.
+
+Temas: #uruguay
 
 ### Usuario
 

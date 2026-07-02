@@ -3,9 +3,13 @@ titulo: "Juego musical con reglas."
 fecha: 2024-02-09
 mensajes: 26
 origen: ChatGPT
+tags:
+  - musica
 ---
 
 # Juego musical con reglas.
+
+Temas: #musica
 
 ### Usuario
 

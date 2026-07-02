@@ -3,9 +3,13 @@ titulo: "Temperatura baja postoperatoria"
 fecha: 2024-10-14
 mensajes: 2
 origen: ChatGPT
+tags:
+  - tecnologia
 ---
 
 # Temperatura baja postoperatoria
+
+Temas: #tecnologia
 
 ### Usuario
 

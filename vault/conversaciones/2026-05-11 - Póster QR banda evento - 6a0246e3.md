@@ -3,9 +3,13 @@ titulo: "Póster QR banda evento"
 fecha: 2026-05-11
 mensajes: 28
 origen: ChatGPT
+tags:
+  - musica
 ---
 
 # Póster QR banda evento
+
+Temas: #musica
 
 ### Usuario
 

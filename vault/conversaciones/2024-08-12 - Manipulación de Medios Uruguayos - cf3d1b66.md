@@ -3,9 +3,14 @@ titulo: "Manipulación de Medios Uruguayos"
 fecha: 2024-08-12
 mensajes: 4
 origen: ChatGPT
+tags:
+  - religion
+  - uruguay
 ---
 
 # Manipulación de Medios Uruguayos
+
+Temas: #religion, #uruguay
 
 ### Usuario
 

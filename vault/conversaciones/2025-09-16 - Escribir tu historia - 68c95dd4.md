@@ -3,9 +3,13 @@ titulo: "Escribir tu historia"
 fecha: 2025-09-16
 mensajes: 122
 origen: ChatGPT
+tags:
+  - tecnologia
 ---
 
 # Escribir tu historia
+
+Temas: #tecnologia
 
 ### Usuario
 

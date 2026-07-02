@@ -3,9 +3,14 @@ titulo: "Juegos trivia pareja móvil"
 fecha: 2025-05-11
 mensajes: 6
 origen: ChatGPT
+tags:
+  - relaciones
+  - tecnologia
 ---
 
 # Juegos trivia pareja móvil
+
+Temas: #relaciones, #tecnologia
 
 ### Usuario
 

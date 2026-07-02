@@ -3,9 +3,13 @@ titulo: "Frío en Montevideo"
 fecha: 2026-06-28
 mensajes: 34
 origen: ChatGPT
+tags:
+  - uruguay
 ---
 
 # Frío en Montevideo
+
+Temas: #uruguay
 
 ### Usuario
 

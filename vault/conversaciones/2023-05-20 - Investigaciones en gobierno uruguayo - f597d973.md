@@ -3,9 +3,14 @@ titulo: "Investigaciones en gobierno uruguayo"
 fecha: 2023-05-20
 mensajes: 2
 origen: ChatGPT
+tags:
+  - politica
+  - uruguay
 ---
 
 # Investigaciones en gobierno uruguayo
+
+Temas: #politica, #uruguay
 
 ### Usuario
 

@@ -3,9 +3,13 @@ titulo: "Clima en Montevideo."
 fecha: 2026-06-29
 mensajes: 2
 origen: ChatGPT
+tags:
+  - uruguay
 ---
 
 # Clima en Montevideo.
+
+Temas: #uruguay
 
 ### Usuario
 

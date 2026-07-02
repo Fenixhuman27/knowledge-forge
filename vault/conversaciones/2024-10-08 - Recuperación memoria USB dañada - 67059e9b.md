@@ -3,9 +3,13 @@ titulo: "Recuperación memoria USB dañada"
 fecha: 2024-10-08
 mensajes: 2
 origen: ChatGPT
+tags:
+  - tecnologia
 ---
 
 # Recuperación memoria USB dañada
+
+Temas: #tecnologia
 
 ### Usuario
 

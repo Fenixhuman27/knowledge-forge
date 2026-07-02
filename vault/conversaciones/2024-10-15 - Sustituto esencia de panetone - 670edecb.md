@@ -3,9 +3,13 @@ titulo: "Sustituto esencia de panetone"
 fecha: 2024-10-15
 mensajes: 6
 origen: ChatGPT
+tags:
+  - tecnologia
 ---
 
 # Sustituto esencia de panetone
+
+Temas: #tecnologia
 
 ### Usuario
 

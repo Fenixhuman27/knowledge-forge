@@ -3,9 +3,13 @@ titulo: "Efecto del ketoprofeno 200 mg"
 fecha: 2024-10-31
 mensajes: 4
 origen: ChatGPT
+tags:
+  - religion
 ---
 
 # Efecto del ketoprofeno 200 mg
+
+Temas: #religion
 
 ### Usuario
 

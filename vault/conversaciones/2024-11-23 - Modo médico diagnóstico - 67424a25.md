@@ -3,9 +3,13 @@ titulo: "Modo médico diagnóstico"
 fecha: 2024-11-23
 mensajes: 6
 origen: ChatGPT
+tags:
+  - tecnologia
 ---
 
 # Modo médico diagnóstico
+
+Temas: #tecnologia
 
 ### Usuario
 

@@ -3,9 +3,14 @@ titulo: "Sistema de salud en Uruguay"
 fecha: 2023-09-21
 mensajes: 4
 origen: ChatGPT
+tags:
+  - salud
+  - uruguay
 ---
 
 # Sistema de salud en Uruguay
+
+Temas: #salud, #uruguay
 
 ### Usuario
 

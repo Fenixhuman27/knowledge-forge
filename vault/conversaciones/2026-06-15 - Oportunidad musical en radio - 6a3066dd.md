@@ -3,9 +3,13 @@ titulo: "Oportunidad musical en radio"
 fecha: 2026-06-15
 mensajes: 23
 origen: ChatGPT
+tags:
+  - musica
 ---
 
 # Oportunidad musical en radio
+
+Temas: #musica
 
 ### Usuario
 

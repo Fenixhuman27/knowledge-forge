@@ -3,9 +3,13 @@ titulo: "Salud integral y derechos"
 fecha: 2025-06-26
 mensajes: 37
 origen: ChatGPT
+tags:
+  - salud
 ---
 
 # Salud integral y derechos
+
+Temas: #salud
 
 ### Usuario
 

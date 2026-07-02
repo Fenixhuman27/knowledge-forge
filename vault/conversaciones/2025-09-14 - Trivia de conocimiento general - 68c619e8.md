@@ -3,9 +3,13 @@ titulo: "Trivia de conocimiento general"
 fecha: 2025-09-14
 mensajes: 64
 origen: ChatGPT
+tags:
+  - tecnologia
 ---
 
 # Trivia de conocimiento general
+
+Temas: #tecnologia
 
 ### Usuario
 

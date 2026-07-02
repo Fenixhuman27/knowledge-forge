@@ -3,9 +3,14 @@ titulo: "Hilo Twitter sobre gobierno"
 fecha: 2024-11-02
 mensajes: 6
 origen: ChatGPT
+tags:
+  - politica
+  - redes_sociales
 ---
 
 # Hilo Twitter sobre gobierno
+
+Temas: #politica, #redes_sociales
 
 ### Usuario
 

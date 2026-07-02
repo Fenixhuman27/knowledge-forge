@@ -3,9 +3,13 @@ titulo: "Foto presentación banda Rock"
 fecha: 2026-03-10
 mensajes: 4
 origen: ChatGPT
+tags:
+  - musica
 ---
 
 # Foto presentación banda Rock
+
+Temas: #musica
 
 ### Usuario
 

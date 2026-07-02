@@ -3,9 +3,13 @@ titulo: "Saludo entre usuarios"
 fecha: 2026-05-09
 mensajes: 2
 origen: ChatGPT
+tags:
+  - salud
 ---
 
 # Saludo entre usuarios
+
+Temas: #salud
 
 ### Usuario
 

@@ -3,9 +3,13 @@ titulo: "Estrategias para videos virales"
 fecha: 2026-06-18
 mensajes: 20
 origen: ChatGPT
+tags:
+  - tecnologia
 ---
 
 # Estrategias para videos virales
+
+Temas: #tecnologia
 
 ### Usuario
 

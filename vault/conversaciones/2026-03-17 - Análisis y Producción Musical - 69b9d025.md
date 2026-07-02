@@ -3,9 +3,13 @@ titulo: "Análisis y Producción Musical"
 fecha: 2026-03-17
 mensajes: 32
 origen: ChatGPT
+tags:
+  - musica
 ---
 
 # Análisis y Producción Musical
+
+Temas: #musica
 
 ### Usuario
 

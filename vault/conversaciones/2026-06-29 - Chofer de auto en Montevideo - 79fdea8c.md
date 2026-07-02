@@ -3,9 +3,15 @@ titulo: "Chofer de auto en Montevideo"
 fecha: 2026-06-29
 mensajes: 2
 origen: ChatGPT
+tags:
+  - trabajo
+  - religion
+  - uruguay
 ---
 
 # Chofer de auto en Montevideo
+
+Temas: #trabajo, #religion, #uruguay
 
 ### Usuario
 

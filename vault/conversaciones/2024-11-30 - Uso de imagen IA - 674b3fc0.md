@@ -3,9 +3,13 @@ titulo: "Uso de imagen IA"
 fecha: 2024-11-30
 mensajes: 4
 origen: ChatGPT
+tags:
+  - tecnologia
 ---
 
 # Uso de imagen IA
+
+Temas: #tecnologia
 
 ### Usuario
 

@@ -3,9 +3,13 @@ titulo: "Ayuda culinaria."
 fecha: 2023-07-02
 mensajes: 11
 origen: ChatGPT
+tags:
+  - tecnologia
 ---
 
 # Ayuda culinaria.
+
+Temas: #tecnologia
 
 ### Usuario
 

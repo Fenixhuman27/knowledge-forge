@@ -3,9 +3,13 @@ titulo: "Tienda Quesera Montevideo"
 fecha: 2026-01-06
 mensajes: 1
 origen: ChatGPT
+tags:
+  - uruguay
 ---
 
 # Tienda Quesera Montevideo
+
+Temas: #uruguay
 
 ### Usuario
 

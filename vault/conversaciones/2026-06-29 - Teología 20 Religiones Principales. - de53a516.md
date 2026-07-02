@@ -3,9 +3,13 @@ titulo: "Teología 20 Religiones Principales."
 fecha: 2026-06-29
 mensajes: 5
 origen: ChatGPT
+tags:
+  - religion
 ---
 
 # Teología 20 Religiones Principales.
+
+Temas: #religion
 
 ### Usuario
 

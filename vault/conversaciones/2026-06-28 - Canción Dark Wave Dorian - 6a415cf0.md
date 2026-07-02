@@ -3,9 +3,13 @@ titulo: "Canción Dark Wave Dorian"
 fecha: 2026-06-28
 mensajes: 10
 origen: ChatGPT
+tags:
+  - tecnologia
 ---
 
 # Canción Dark Wave Dorian
+
+Temas: #tecnologia
 
 ### Asistente
 

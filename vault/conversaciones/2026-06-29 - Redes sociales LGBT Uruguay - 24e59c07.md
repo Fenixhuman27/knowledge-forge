@@ -3,9 +3,15 @@ titulo: "Redes sociales LGBT Uruguay"
 fecha: 2026-06-29
 mensajes: 27
 origen: ChatGPT
+tags:
+  - tecnologia
+  - uruguay
+  - redes_sociales
 ---
 
 # Redes sociales LGBT Uruguay
+
+Temas: #tecnologia, #uruguay, #redes_sociales
 
 ### Usuario
 

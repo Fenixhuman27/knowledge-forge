@@ -3,9 +3,13 @@ titulo: "Crear historia de ficción"
 fecha: 2023-05-16
 mensajes: 6
 origen: ChatGPT
+tags:
+  - tecnologia
 ---
 
 # Crear historia de ficción
+
+Temas: #tecnologia
 
 ### Usuario
 

@@ -3,9 +3,14 @@ titulo: "Estrategia de Storytelling Musical"
 fecha: 2026-04-26
 mensajes: 5
 origen: ChatGPT
+tags:
+  - tecnologia
+  - musica
 ---
 
 # Estrategia de Storytelling Musical
+
+Temas: #tecnologia, #musica
 
 ### Usuario
 

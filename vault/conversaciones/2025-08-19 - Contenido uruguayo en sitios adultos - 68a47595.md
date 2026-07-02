@@ -3,9 +3,13 @@ titulo: "Contenido uruguayo en sitios adultos"
 fecha: 2025-08-19
 mensajes: 12
 origen: ChatGPT
+tags:
+  - uruguay
 ---
 
 # Contenido uruguayo en sitios adultos
+
+Temas: #uruguay
 
 ### Usuario
 

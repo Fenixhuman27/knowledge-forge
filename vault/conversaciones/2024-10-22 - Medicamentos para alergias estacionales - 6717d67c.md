@@ -3,9 +3,13 @@ titulo: "Medicamentos para alergias estacionales"
 fecha: 2024-10-22
 mensajes: 4
 origen: ChatGPT
+tags:
+  - tecnologia
 ---
 
 # Medicamentos para alergias estacionales
+
+Temas: #tecnologia
 
 ### Usuario
 

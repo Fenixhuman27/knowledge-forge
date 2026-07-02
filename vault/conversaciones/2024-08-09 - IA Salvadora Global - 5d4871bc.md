@@ -3,9 +3,13 @@ titulo: "IA Salvadora Global"
 fecha: 2024-08-09
 mensajes: 10
 origen: ChatGPT
+tags:
+  - tecnologia
 ---
 
 # IA Salvadora Global
+
+Temas: #tecnologia
 
 ### Usuario
 

@@ -3,9 +3,13 @@ titulo: "Resultado resonancia espalda"
 fecha: 2025-02-25
 mensajes: 18
 origen: ChatGPT
+tags:
+  - tecnologia
 ---
 
 # Resultado resonancia espalda
+
+Temas: #tecnologia
 
 ### Usuario
 

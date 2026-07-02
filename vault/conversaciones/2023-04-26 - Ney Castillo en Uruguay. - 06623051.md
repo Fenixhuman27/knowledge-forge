@@ -3,9 +3,13 @@ titulo: "Ney Castillo en Uruguay."
 fecha: 2023-04-26
 mensajes: 8
 origen: ChatGPT
+tags:
+  - uruguay
 ---
 
 # Ney Castillo en Uruguay.
+
+Temas: #uruguay
 
 ### Usuario
 

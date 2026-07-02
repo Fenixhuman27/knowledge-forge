@@ -3,9 +3,13 @@ titulo: "Presión arterial en embarazo"
 fecha: 2024-10-04
 mensajes: 4
 origen: ChatGPT
+tags:
+  - tecnologia
 ---
 
 # Presión arterial en embarazo
+
+Temas: #tecnologia
 
 ### Usuario
 

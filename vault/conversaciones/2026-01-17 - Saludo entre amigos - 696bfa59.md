@@ -3,9 +3,13 @@ titulo: "Saludo entre amigos"
 fecha: 2026-01-17
 mensajes: 6
 origen: ChatGPT
+tags:
+  - salud
 ---
 
 # Saludo entre amigos
+
+Temas: #salud
 
 ### Usuario
 

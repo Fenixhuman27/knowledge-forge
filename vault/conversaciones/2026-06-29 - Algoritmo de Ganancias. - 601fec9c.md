@@ -3,9 +3,13 @@ titulo: "Algoritmo de Ganancias."
 fecha: 2026-06-29
 mensajes: 9
 origen: ChatGPT
+tags:
+  - tecnologia
 ---
 
 # Algoritmo de Ganancias.
+
+Temas: #tecnologia
 
 ### Usuario
 

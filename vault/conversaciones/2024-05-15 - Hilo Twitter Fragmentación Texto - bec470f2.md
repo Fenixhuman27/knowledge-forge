@@ -3,9 +3,13 @@ titulo: "Hilo Twitter: Fragmentación Texto"
 fecha: 2024-05-15
 mensajes: 4
 origen: ChatGPT
+tags:
+  - redes_sociales
 ---
 
 # Hilo Twitter: Fragmentación Texto
+
+Temas: #redes_sociales
 
 ### Usuario
 

@@ -3,9 +3,13 @@ titulo: "Emulador más liviano"
 fecha: 2024-10-24
 mensajes: 4
 origen: ChatGPT
+tags:
+  - tecnologia
 ---
 
 # Emulador más liviano
+
+Temas: #tecnologia
 
 ### Usuario
 

@@ -3,9 +3,13 @@ titulo: "Historia Conocimiento Amplio."
 fecha: 2023-04-22
 mensajes: 5
 origen: ChatGPT
+tags:
+  - tecnologia
 ---
 
 # Historia Conocimiento Amplio.
+
+Temas: #tecnologia
 
 ### Usuario
 

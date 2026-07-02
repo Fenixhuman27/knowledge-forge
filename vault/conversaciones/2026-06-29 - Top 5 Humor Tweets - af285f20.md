@@ -3,9 +3,13 @@ titulo: "Top 5 Humor Tweets"
 fecha: 2026-06-29
 mensajes: 16
 origen: ChatGPT
+tags:
+  - humor
 ---
 
 # Top 5 Humor Tweets
+
+Temas: #humor
 
 ### Usuario
 

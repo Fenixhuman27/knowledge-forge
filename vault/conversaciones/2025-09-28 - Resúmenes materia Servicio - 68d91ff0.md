@@ -3,9 +3,13 @@ titulo: "Resúmenes materia Servicio"
 fecha: 2025-09-28
 mensajes: 3
 origen: ChatGPT
+tags:
+  - tecnologia
 ---
 
 # Resúmenes materia Servicio
+
+Temas: #tecnologia
 
 ### Usuario
 

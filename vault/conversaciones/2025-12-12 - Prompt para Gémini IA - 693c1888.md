@@ -3,9 +3,13 @@ titulo: "Prompt para Gémini IA"
 fecha: 2025-12-12
 mensajes: 2
 origen: ChatGPT
+tags:
+  - tecnologia
 ---
 
 # Prompt para Gémini IA
+
+Temas: #tecnologia
 
 ### Usuario
 

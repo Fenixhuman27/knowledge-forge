@@ -3,9 +3,13 @@ titulo: "Hugo Washington Wilkins: Resistencia."
 fecha: 2023-05-12
 mensajes: 4
 origen: ChatGPT
+tags:
+  - tecnologia
 ---
 
 # Hugo Washington Wilkins: Resistencia.
+
+Temas: #tecnologia
 
 ### Usuario
 

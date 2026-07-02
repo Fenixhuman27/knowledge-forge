@@ -3,9 +3,13 @@ titulo: "Preparación herbaria beneficiosa"
 fecha: 2025-12-20
 mensajes: 2
 origen: ChatGPT
+tags:
+  - tecnologia
 ---
 
 # Preparación herbaria beneficiosa
+
+Temas: #tecnologia
 
 ### Usuario
 

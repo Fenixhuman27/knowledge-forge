@@ -3,9 +3,13 @@ titulo: "Sugerencias para publicación redes"
 fecha: 2026-05-10
 mensajes: 2
 origen: ChatGPT
+tags:
+  - tecnologia
 ---
 
 # Sugerencias para publicación redes
+
+Temas: #tecnologia
 
 ### Usuario
 

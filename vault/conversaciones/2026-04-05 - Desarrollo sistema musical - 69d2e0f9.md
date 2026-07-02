@@ -3,9 +3,13 @@ titulo: "Desarrollo sistema musical"
 fecha: 2026-04-05
 mensajes: 12
 origen: ChatGPT
+tags:
+  - musica
 ---
 
 # Desarrollo sistema musical
+
+Temas: #musica
 
 ### Usuario
 

@@ -3,9 +3,13 @@ titulo: "Liberalismo y autoritarismo potencial"
 fecha: 2024-11-28
 mensajes: 6
 origen: ChatGPT
+tags:
+  - tecnologia
 ---
 
 # Liberalismo y autoritarismo potencial
+
+Temas: #tecnologia
 
 ### Usuario
 

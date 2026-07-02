@@ -3,9 +3,13 @@ titulo: "Herramientas para crear música IA"
 fecha: 2026-05-01
 mensajes: 2
 origen: ChatGPT
+tags:
+  - tecnologia
 ---
 
 # Herramientas para crear música IA
+
+Temas: #tecnologia
 
 ### Usuario
 

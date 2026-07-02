@@ -3,9 +3,13 @@ titulo: "Ideología de derecha e izquierda"
 fecha: 2024-08-08
 mensajes: 4
 origen: ChatGPT
+tags:
+  - politica
 ---
 
 # Ideología de derecha e izquierda
+
+Temas: #politica
 
 ### Usuario
 

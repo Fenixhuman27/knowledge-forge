@@ -3,9 +3,13 @@ titulo: "Receta pan flauta uruguayo"
 fecha: 2025-09-16
 mensajes: 2
 origen: ChatGPT
+tags:
+  - uruguay
 ---
 
 # Receta pan flauta uruguayo
+
+Temas: #uruguay
 
 ### Usuario
 

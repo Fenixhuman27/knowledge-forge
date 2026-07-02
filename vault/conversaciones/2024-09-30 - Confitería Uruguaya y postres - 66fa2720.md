@@ -3,9 +3,13 @@ titulo: "Confitería Uruguaya y postres"
 fecha: 2024-09-30
 mensajes: 6
 origen: ChatGPT
+tags:
+  - uruguay
 ---
 
 # Confitería Uruguaya y postres
+
+Temas: #uruguay
 
 ### Usuario
 

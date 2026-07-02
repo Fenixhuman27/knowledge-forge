@@ -3,9 +3,13 @@ titulo: "Curso optimizado Claude IA"
 fecha: 2026-05-03
 mensajes: 8
 origen: ChatGPT
+tags:
+  - tecnologia
 ---
 
 # Curso optimizado Claude IA
+
+Temas: #tecnologia
 
 ### Usuario
 

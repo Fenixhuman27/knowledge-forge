@@ -3,9 +3,13 @@ titulo: "Mejorar foto antigua IA"
 fecha: 2025-01-25
 mensajes: 2
 origen: ChatGPT
+tags:
+  - tecnologia
 ---
 
 # Mejorar foto antigua IA
+
+Temas: #tecnologia
 
 ### Usuario
 

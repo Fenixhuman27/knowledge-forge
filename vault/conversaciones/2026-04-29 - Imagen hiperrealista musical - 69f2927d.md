@@ -3,9 +3,13 @@ titulo: "Imagen hiperrealista musical"
 fecha: 2026-04-29
 mensajes: 3
 origen: ChatGPT
+tags:
+  - musica
 ---
 
 # Imagen hiperrealista musical
+
+Temas: #musica
 
 ### Usuario
 

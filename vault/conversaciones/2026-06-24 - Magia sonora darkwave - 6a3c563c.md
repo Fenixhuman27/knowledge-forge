@@ -3,9 +3,13 @@ titulo: "Magia sonora darkwave"
 fecha: 2026-06-24
 mensajes: 46
 origen: ChatGPT
+tags:
+  - tecnologia
 ---
 
 # Magia sonora darkwave
+
+Temas: #tecnologia
 
 ### Usuario
 

@@ -3,9 +3,13 @@ titulo: "Arte vs Moda Musical"
 fecha: 2026-05-29
 mensajes: 2
 origen: ChatGPT
+tags:
+  - musica
 ---
 
 # Arte vs Moda Musical
+
+Temas: #musica
 
 ### Usuario
 

@@ -3,9 +3,13 @@ titulo: "Humanizar imagen banda"
 fecha: 2026-05-15
 mensajes: 1
 origen: ChatGPT
+tags:
+  - musica
 ---
 
 # Humanizar imagen banda
+
+Temas: #musica
 
 ### Usuario
 

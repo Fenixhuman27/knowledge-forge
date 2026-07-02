@@ -3,9 +3,13 @@ titulo: "Historia sensible no apropiada."
 fecha: 2023-10-16
 mensajes: 12
 origen: ChatGPT
+tags:
+  - tecnologia
 ---
 
 # Historia sensible no apropiada.
+
+Temas: #tecnologia
 
 ### Usuario
 

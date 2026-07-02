@@ -3,9 +3,13 @@ titulo: "Friends Trivia: Pregunta y Responde"
 fecha: 2024-02-12
 mensajes: 148
 origen: ChatGPT
+tags:
+  - tecnologia
 ---
 
 # Friends Trivia: Pregunta y Responde
+
+Temas: #tecnologia
 
 ### Usuario
 

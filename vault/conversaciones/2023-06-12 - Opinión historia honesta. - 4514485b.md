@@ -3,9 +3,13 @@ titulo: "Opinión historia honesta."
 fecha: 2023-06-12
 mensajes: 2
 origen: ChatGPT
+tags:
+  - tecnologia
 ---
 
 # Opinión historia honesta.
+
+Temas: #tecnologia
 
 ### Usuario
 

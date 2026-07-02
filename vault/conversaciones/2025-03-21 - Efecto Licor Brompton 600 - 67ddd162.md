@@ -3,9 +3,13 @@ titulo: "Efecto Licor Brompton 600"
 fecha: 2025-03-21
 mensajes: 96
 origen: ChatGPT
+tags:
+  - religion
 ---
 
 # Efecto Licor Brompton 600
+
+Temas: #religion
 
 ### Usuario
 

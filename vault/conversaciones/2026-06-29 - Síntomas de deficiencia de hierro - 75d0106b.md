@@ -3,9 +3,14 @@ titulo: "Síntomas de deficiencia de hierro"
 fecha: 2026-06-29
 mensajes: 2
 origen: ChatGPT
+tags:
+  - salud
+  - tecnologia
 ---
 
 # Síntomas de deficiencia de hierro
+
+Temas: #salud, #tecnologia
 
 ### Usuario
 
