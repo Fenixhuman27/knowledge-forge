@@ -12,6 +12,7 @@ from src.parser.chatgpt_parser import cargar_conversaciones
 from src.kce.normalizers import normalizar_chatgpt
 from src.kce.pipeline import KCEPipeline
 from src.kce.plugins.decision_detector import DecisionDetector
+from src.kce.plugins.task_detector import TaskDetector
 
 CARPETA_DATOS = "data"
 CARPETA_SALIDA = "output"
@@ -28,6 +29,7 @@ def buscar_archivos_conversaciones():
 def construir_pipeline():
     pipeline = KCEPipeline()
     pipeline.registrar_plugin(DecisionDetector())
+    pipeline.registrar_plugin(TaskDetector())
     return pipeline
 
 
