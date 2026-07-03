@@ -1,0 +1,14 @@
+---
+plugin: task_detector
+fecha: 2026-04-12
+tags:
+  - task_detector
+---
+
+# Task Detector
+
+Conversacion origen: [[2026-04-12 - Estrategia para Nocturne’s Wake - 69dc1729]]
+
+## Hallazgos
+
+- A GEMINI LE TENGO QUE MOSTRAR UNA IMAGEN DE REFERENCIA SIEMPRE PARA QUE NO CAMBIE LA PERSONALIDAD DE LOS INTEGRANTES DE LA BANDA. ASI QUE EL PROMPT DEBE MENCIONAR A LA FIGURA DE REFERENCIA DE LA FOTO QUE ADJUNTO
