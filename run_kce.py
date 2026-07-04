@@ -13,6 +13,7 @@ from src.kce.normalizers import normalizar_chatgpt
 from src.kce.pipeline import KCEPipeline
 from src.kce.plugins.decision_detector import DecisionDetector
 from src.kce.plugins.task_detector import TaskDetector
+from src.kce.plugins.contradiction_detector import ContradictionDetector
 
 CARPETA_DATOS = "data"
 CARPETA_SALIDA = "output"
@@ -30,6 +31,7 @@ def construir_pipeline():
     pipeline = KCEPipeline()
     pipeline.registrar_plugin(DecisionDetector())
     pipeline.registrar_plugin(TaskDetector())
+    pipeline.registrar_plugin(ContradictionDetector())
     return pipeline
 
 
