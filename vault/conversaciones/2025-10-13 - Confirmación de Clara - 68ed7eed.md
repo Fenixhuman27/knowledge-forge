@@ -137,12 +137,12 @@ Mostrame lo que encontraste y lo analizamos juntos 👌
 
 ### Usuario
 
-Necesito apoyo en el diseño de materiales educativos ilustrados (afiches, fichas y presentaciones) dirigidos a estudiantes de cuarto grado de primaria. El objetivo es reforzar el reconocimiento y la regulación de emociones, así como fortalecer la autoestima. Busco que los materiales sean coloridos, claros y adecuados para niños, con mensajes positivos y lenguaje sencillo. Cuento con el contenido base y las ideas generales, pero necesito ayuda con la parte visual y el diseño final. El trabajo se puede desarrollar de manera virtual.
-
-Categoría: Redacción y Traducción
-Subcategoría: Revisión de textos
-¿Cuántas palabras?: Entre 1000 y 5000 palabras
-¿Es un proyecto o una posición?: Un proyecto
+Necesito apoyo en el diseño de materiales educativos ilustrados (afiches, fichas y presentaciones) dirigidos a estudiantes de cuarto grado de primaria. El objetivo es reforzar el reconocimiento y la regulación de emociones, así como fortalecer la autoestima. Busco que los materiales sean coloridos, claros y adecuados para niños, con mensajes positivos y lenguaje sencillo. Cuento con el contenido base y las ideas generales, pero necesito ayuda con la parte visual y el diseño final. El trabajo se puede desarrollar de manera virtual.
+
+Categoría: Redacción y Traducción
+Subcategoría: Revisión de textos
+¿Cuántas palabras?: Entre 1000 y 5000 palabras
+¿Es un proyecto o una posición?: Un proyecto
 Disponibilidad requerida: Según se necesite
 
 ### Asistente

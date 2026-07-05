@@ -574,50 +574,50 @@ Y un detalle más: no subestimes los podcasts. Para una historia como la tuya, u
 
 ### Usuario
 
-su respuesta Entiendo que necesitas una base de datos de contactos de alta calidad para una campaña de prensa internacional. Sin embargo, debo ser transparente: no puedo generar 100 contactos específicos con nombres, correos electrónicos, LinkedIn y Twitter reales de periodistas, productores y creadores porque:
-
-Los datos de contacto personales de periodistas específicos no están disponibles en búsquedas web genéricas - requieren bases de datos de pago como Cision, Meltwater, ou Hunter.io
-
-Los correos electrónicos personales cambian frecuentemente y pueden estar desactualizados
-
-Necesitaría hacer cientos de búsquedas individuales para cada medio/persona, excediendo el límite de tool calls
-
-Lo que SÍ puedo hacer por ti:
-Te proporcionaré una estrategia profesional y una plantilla de base de datos con:
-
-1. Medios y plataformas CLAVE con sus contactos públicos de presentación
-2. Formato estructurado que puedes completar con investigación adicional
-3. Fuentes y herramientas específicas para encontrar los contactos exactos
-¿Te gustaría que:
-
-A) Cree una base de datos estructurada con 20-30 medios clave (blogs indie, podcasts, revistas) con sus correos de presentación públicos que sí puedo encontrar, organizados por categoría y prioridad?
-
-B) Te proporcione una guía completa con:
-
-Lista de 50+ medios específicos (nombres, sitios web, tipo de contenido)
-
-Herramientas gratuitas/pago para encontrar correos de periodistas
-
-Estrategia de pitch personalizada para la historia de Mario
-
-Plantilla de Excel/CSV lista para usar
-
-C) Busque contactos específicos de medios uruguayos y latinoamericanos primero (donde hay mayor probabilidad de interés en una historia local) y luego medios internacionales?
-
-¿Cuál opción prefieres? Esto te dará un resultado mucho más útil y accionable que una lista genérica de 100 contactos que podrían estar desactualizados. Seguimientos
-
-Plantilla maestra de RRPP: segmenta 100+ periodistas internacionales por nicho, afinidad temática y relevancia histórica
-Computer
-​
-
-Automatiza tu prospección de prensa: cruza tu historia con la cobertura reciente de medios clave en EE. UU., Latam y Europa
-Computer
-​
-
-Prefiero la opción B, necesito la guía completa y estrategia de pitch
-
-Elige la opción A, quiero esa base estructurada de 20-30 medios clave
-
+su respuesta Entiendo que necesitas una base de datos de contactos de alta calidad para una campaña de prensa internacional. Sin embargo, debo ser transparente: no puedo generar 100 contactos específicos con nombres, correos electrónicos, LinkedIn y Twitter reales de periodistas, productores y creadores porque:
+
+Los datos de contacto personales de periodistas específicos no están disponibles en búsquedas web genéricas - requieren bases de datos de pago como Cision, Meltwater, ou Hunter.io
+
+Los correos electrónicos personales cambian frecuentemente y pueden estar desactualizados
+
+Necesitaría hacer cientos de búsquedas individuales para cada medio/persona, excediendo el límite de tool calls
+
+Lo que SÍ puedo hacer por ti:
+Te proporcionaré una estrategia profesional y una plantilla de base de datos con:
+
+1. Medios y plataformas CLAVE con sus contactos públicos de presentación
+2. Formato estructurado que puedes completar con investigación adicional
+3. Fuentes y herramientas específicas para encontrar los contactos exactos
+¿Te gustaría que:
+
+A) Cree una base de datos estructurada con 20-30 medios clave (blogs indie, podcasts, revistas) con sus correos de presentación públicos que sí puedo encontrar, organizados por categoría y prioridad?
+
+B) Te proporcione una guía completa con:
+
+Lista de 50+ medios específicos (nombres, sitios web, tipo de contenido)
+
+Herramientas gratuitas/pago para encontrar correos de periodistas
+
+Estrategia de pitch personalizada para la historia de Mario
+
+Plantilla de Excel/CSV lista para usar
+
+C) Busque contactos específicos de medios uruguayos y latinoamericanos primero (donde hay mayor probabilidad de interés en una historia local) y luego medios internacionales?
+
+¿Cuál opción prefieres? Esto te dará un resultado mucho más útil y accionable que una lista genérica de 100 contactos que podrían estar desactualizados. Seguimientos
+
+Plantilla maestra de RRPP: segmenta 100+ periodistas internacionales por nicho, afinidad temática y relevancia histórica
+Computer
+​
+
+Automatiza tu prospección de prensa: cruza tu historia con la cobertura reciente de medios clave en EE. UU., Latam y Europa
+Computer
+​
+
+Prefiero la opción B, necesito la guía completa y estrategia de pitch
+
+Elige la opción A, quiero esa base estructurada de 20-30 medios clave
+
 Me interesa la opción C, empecemos por medios uruguayos y regionales
 
 ### Asistente
@@ -823,20 +823,20 @@ Cuando Perplexity te entregue la lista, tráemela. Ahí sí podemos hacer algo m
 
 ### Usuario
 
-su respuesta: Ahora voy a buscar más contactos específicos de periodistas y medios en los países prioritarios, con énfasis en historias humanas y resiliencia.
-
-Seguimientos
-
-Estrategias avanzadas de storytelling transmedia para convertir historias de resiliencia en fenómenos culturales de alto impacto
-Investigación profunda
-​
-
-Cómo estructurar un pitch persuasivo para historias humanas
-
-Qué elementos diferencian un caso de resiliencia ante la prensa
-
-Estrategias para conectar con periodistas de cultura y sociedad
-
+su respuesta: Ahora voy a buscar más contactos específicos de periodistas y medios en los países prioritarios, con énfasis en historias humanas y resiliencia.
+
+Seguimientos
+
+Estrategias avanzadas de storytelling transmedia para convertir historias de resiliencia en fenómenos culturales de alto impacto
+Investigación profunda
+​
+
+Cómo estructurar un pitch persuasivo para historias humanas
+
+Qué elementos diferencian un caso de resiliencia ante la prensa
+
+Estrategias para conectar con periodistas de cultura y sociedad
+
 Cómo medir el impacto de la cobertura en medios internacionales
 
 ### Asistente
@@ -938,44 +938,44 @@ Eso aumenta muchísimo la credibilidad percibida.
 ### Usuario
 
 su respuesta es esta: 1.	https://www.facebook.com/canal5uruguay/posts/️-hoy-viernes-en-elliving-nos-visita-la-periodista-giuliana-perdomo-conoceremos-/8438398296178060/  
-2.	https://uycast.com/sobre-uycast/ 
-3.	https://podtail.com/es/top-podcasts/ar/ 
-4.	https://www.linkedin.com/in/alejandro-gorenstein 
-5.	https://buenosaires.gob.ar/la2x4/noticias/contame-tu-historia-revivi-las-entrevistas 
-6.	https://www.argentinapodcastera.com.ar/temas/historia/ 
-7.	https://www.instagram.com/reel/DY9duHZjtOR/ 
-8.	https://www.radionacional.com.ar/contame-una-historia/ 
-9.	https://podcasts.apple.com/ve/podcast/historia-en-podcast/id1503363327 
-10.	https://www.youtube.com/watch?v=Es8foOREQzw 
-11.	https://www.radios-uruguay.com/podcasts/historias-de-nuestra-historia 
-12.	https://neurovibes.net/nosotros 
-13.	https://www.boomplay.com/podcasts/77898 
-14.	https://www.kizaya.com/es 
-15.	https://sjmchile.org/noticias/periodismo-sin-etiquetas-premian-trabajos-periodisticos-sobre-movilidad-humana/ 
-16.	https://www.instagram.com/reel/DWmL3rgxVbf/?hl=es 
-17.	https://podcast.feedspot.com/podcasts_hombres_mexico/ 
-18.	https://g5noticias.cl/2024/11/11/destacadas-actrices-chilenas-dan-vida-a-historias-reales-de-mujeres-que-desafian-la-violencia/ 
-19.	https://www.instagram.com/reel/DWjvqWRoMNu/ 
-20.	https://www.ivoox.com/en/podcast-historias-inspiradoras_sq_f1475048_1.html 
-21.	https://www.publimetro.cl/social/2024/11/11/destacadas-actrices-chilenas-dan-vida-a-historias-reales-de-mujeres-que-desafian-la-violencia/ 
-22.	https://www.youtube.com/watch?v=_IugzPwpsyY 
-23.	https://www.cronista.com/impresa-general/history-channel-estrena-unidos-por-la-historia-una-ambiciosa-serie-documental-dedicada-al-bicentenario/ 
-24.	https://podcasts.apple.com/mx/podcast/somos-inspiración/id1755030863 
-25.	https://centrodememoriahistorica.gov.co/podcasts/ 
-26.	https://uvadoc.uva.es/handle/10324/58438 
-27.	https://www.tiktok.com/@tonellijuan/video/7550097909560167687 
-28.	https://radioambulante.org 
-29.	https://es.wikipedia.org/wiki/El_País 
-30.	https://www.tycsports.com/gaming/el-documental-sobre-messi-que-es-tendencia-en-youtube-id705208.html 
-31.	https://podcasts.apple.com/us/podcast/mejor-colombia/id1617162168 
-32.	https://elpais.com/noticias/historia/ 
-33.	https://www.youtube.com/watch?v=YcR_mM6OAN8 
-34.	https://ec.cultura.gob.cl/la-creatividad-como-herramienta-de-resiliencia-como-los-artistas-superan-desafios-personales-y-colectivos/ 
-35.	https://www.colombia.com/podcasts/ 
-36.	https://www.facebook.com/ElObservadorUY/videos/a-un-año-de-la-muerte-de-mujica-cómo-es-recordado-tras-su-fallecimientoartistas-/733195936552435/ 
-37.	https://directorio.sembramedia.org/uycast/ 
-38.	https://www.rtve.es/play/videos/historia-de-america-latina/historia-america-latina-imaginarios-latinoamericanos/1776147/ 
-39.	https://open.spotify.com/show/1HKjCHNmjt4CIbr0WL1ogj 
+2.	https://uycast.com/sobre-uycast/ 
+3.	https://podtail.com/es/top-podcasts/ar/ 
+4.	https://www.linkedin.com/in/alejandro-gorenstein 
+5.	https://buenosaires.gob.ar/la2x4/noticias/contame-tu-historia-revivi-las-entrevistas 
+6.	https://www.argentinapodcastera.com.ar/temas/historia/ 
+7.	https://www.instagram.com/reel/DY9duHZjtOR/ 
+8.	https://www.radionacional.com.ar/contame-una-historia/ 
+9.	https://podcasts.apple.com/ve/podcast/historia-en-podcast/id1503363327 
+10.	https://www.youtube.com/watch?v=Es8foOREQzw 
+11.	https://www.radios-uruguay.com/podcasts/historias-de-nuestra-historia 
+12.	https://neurovibes.net/nosotros 
+13.	https://www.boomplay.com/podcasts/77898 
+14.	https://www.kizaya.com/es 
+15.	https://sjmchile.org/noticias/periodismo-sin-etiquetas-premian-trabajos-periodisticos-sobre-movilidad-humana/ 
+16.	https://www.instagram.com/reel/DWmL3rgxVbf/?hl=es 
+17.	https://podcast.feedspot.com/podcasts_hombres_mexico/ 
+18.	https://g5noticias.cl/2024/11/11/destacadas-actrices-chilenas-dan-vida-a-historias-reales-de-mujeres-que-desafian-la-violencia/ 
+19.	https://www.instagram.com/reel/DWjvqWRoMNu/ 
+20.	https://www.ivoox.com/en/podcast-historias-inspiradoras_sq_f1475048_1.html 
+21.	https://www.publimetro.cl/social/2024/11/11/destacadas-actrices-chilenas-dan-vida-a-historias-reales-de-mujeres-que-desafian-la-violencia/ 
+22.	https://www.youtube.com/watch?v=_IugzPwpsyY 
+23.	https://www.cronista.com/impresa-general/history-channel-estrena-unidos-por-la-historia-una-ambiciosa-serie-documental-dedicada-al-bicentenario/ 
+24.	https://podcasts.apple.com/mx/podcast/somos-inspiración/id1755030863 
+25.	https://centrodememoriahistorica.gov.co/podcasts/ 
+26.	https://uvadoc.uva.es/handle/10324/58438 
+27.	https://www.tiktok.com/@tonellijuan/video/7550097909560167687 
+28.	https://radioambulante.org 
+29.	https://es.wikipedia.org/wiki/El_País 
+30.	https://www.tycsports.com/gaming/el-documental-sobre-messi-que-es-tendencia-en-youtube-id705208.html 
+31.	https://podcasts.apple.com/us/podcast/mejor-colombia/id1617162168 
+32.	https://elpais.com/noticias/historia/ 
+33.	https://www.youtube.com/watch?v=YcR_mM6OAN8 
+34.	https://ec.cultura.gob.cl/la-creatividad-como-herramienta-de-resiliencia-como-los-artistas-superan-desafios-personales-y-colectivos/ 
+35.	https://www.colombia.com/podcasts/ 
+36.	https://www.facebook.com/ElObservadorUY/videos/a-un-año-de-la-muerte-de-mujica-cómo-es-recordado-tras-su-fallecimientoartistas-/733195936552435/ 
+37.	https://directorio.sembramedia.org/uycast/ 
+38.	https://www.rtve.es/play/videos/historia-de-america-latina/historia-america-latina-imaginarios-latinoamericanos/1776147/ 
+39.	https://open.spotify.com/show/1HKjCHNmjt4CIbr0WL1ogj 
 40.	https://www.elpais.com.uy/domingo/resiliencia-tres-uruguayos-que-superaron-la-adversidad-y-la-tragedia
 
 ### Asistente
@@ -1099,130 +1099,130 @@ Eso probablemente aumentará más tus probabilidades que pasar de 30 contactos a
 
 ### Usuario
 
-respuesta BASE DE DATOS DE CONTACTOS PARA CAMPAÑA DE PRENSA INTERNACIONAL
-Historia de Mario Labitola - "We Don't Break" / Nocturne's Wake
-🇺🇾 URUGUAY (Prioridad Máxima)
-#	Nombre	Cargo	Medio/Programa	País	Contacto Público	Por qué encaja	Prioridad
-1	Emiliano Cotelo	Director y conductor	En Perspectiva (Radiomundo 1170 AM)	Uruguay	enperspectiva@enperspectiva.net	Programa de entrevistas más importante de Uruguay. Cubre historias humanas, cultura y resiliencia. Entrevista artistas independientes. Teléfono: +598 91 52 52 52 
-ALTA
-2	Jaime Clara	Conductora	Inmediaciones de la Cultura (ORT TV)	Uruguay	fc.ort.edu.uy/inmediaciones-de-la-cultura	Programa de entrevistas a referentes culturales. Especializado en perfiles de artistas y creadores 
-ALTA
-3	Equipo Cultural	Departamento de cultura	El País Uruguay	Uruguay	cultural@elpais.com.uy	Suplemento Cultural cubre historias de artistas uruguayos, resiliencia creativa. Publicó "Resiliencia: tres uruguayos que superaron la adversidad" 
-ALTA
-4	Andrés Silva	Cofundador y Director	Diario La Humanidad	Uruguay	linkedin.com/in/andrés-silva-979a3858	Diario enfocado en historias humanas y derechos humanos. Perfil alineado con historia de supervivencia 
-ALTA
-5	Juan Manuel Gari	Coordinador de Periodismo	Universidad de Montevideo	Uruguay	linkedin.com/in/juan-manuel-gari	Periodismo de narrativa, podría interesar historias de impacto social 
-MEDIA
-6	UyCast	Productora de podcasts	UyCast Red de Podcasts	Uruguay	uycast.com/sobre-uycast/	Productora de contenido independiente y alternativo. Creada para difundir contenido alternativo 
-ALTA
-7	Valentina Caredio	Periodista, Podcaster	Montevideo	Uruguay	linkedin.com/in/valentina-caredio-a260075b	Especializada en podcast y periodismo. Docencia en periodismo de audio 
-MEDIA
-🇦🇷 ARGENTINA
-#	Nombre	Cargo	Medio/Programa	País	Contacto Público	Por qué encaja	Prioridad
-8	María Florencia Alcaraz	Periodista investigadora, Editora	Buenos Aires	Argentina	linkedin.com/in/mariaflorencialcaraz	Especializada en narrativas con enfoque en género y derechos humanos. 15+ años en periodismo de investigación 
-ALTA
-9	Martín Seid	Director Creativo	Almacen de Podcast	Argentina	linkedin.com/in/martín-seid-2944a0208	Creación de podcasts y piezas artísticas con audio. Hace radio y producción narrativa 
-ALTA
-10	Sebastián Romero	Periodista, Podcaster	Buenos Aires	Argentina	linkedin.com/in/sebastián-romero-14605b250	Conduce "Charlas Minúsculas", editor de sonido de podcasts narrativos. Redactor en Minúscula 
-ALTA
-11	Alejandro Gorenstein	Periodista, Escritor	Buenos Aires	Argentina	linkedin.com/in/alejandro-gorenstein	Especializado en resiliencia y problemáticas sociales. 20+ años de trayectoria 
-ALTA
-12	Equipo Radio Nacional	Productores	"Contame una historia" (Radio Nacional Argentina)	Argentina	radionacional.com.ar/contame-una-historia/	Programa dedicado a historias de vida. Segmento "Contame tu historia" rescata vivencias 
-ALTA
-13	Celeste Giardinelli	Videojournalist, Content Creator	Buenos Aires	Argentina	linkedin.com/in/celegiardinelli	Columna en "Narraciones Extraordinarias" (Enzo Maqueira). Creadora de contenido sobre historias extraordinarias 
-MEDIA
-🇨🇱 CHILE
-#	Nombre	Cargo	Medio/Programa	País	Contacto Público	Por qué encaja	Prioridad
-14	Tere Balmaceda	Conductora, Locutora	"Familias con Historia" (Canal 13C), "Agenda Femenina" (Radio La Metro)	Chile	linkedin.com/in/tere-balmaceda-periodista-conductora	Creadora de "Familias con Historia". Narradora de historias con alma y emoción. Voz reconocida en Chile 
-ALTA
-15	Rafael Carneiro	Periodista	O Estado de Sao Paulo (basado en Santiago)	Chile	facebook.com/intendenciacolonia/posts	Periodista brasileño viviendo en Santiago 6 años. Cubre historias latinoamericanas 
-MEDIA
-16	Equipo Resiliencia	Productores	Podcast "Resiliencia" (Fundación Soymás + Radio Pauta)	Chile	publimetro.cl/social/2024/11/11/destacadas-actrices-chilenas-dan-vida-a-historias-reales	Podcast dedicado a historias de mujeres que desafían violencia. Historias reales en primera persona 
-ALTA
-17	Carmen Sánchez Alegre	Conductora	"Resiliencia Creativa" (PLUMA Lab)	España/Chile	open.spotify.com/show/1HKjCHNmjt4CIbr0WL1ogj	Conversa con creadores que convirtieron crisis en creatividad auténtica. Transformar desafíos en creatividad 
-ALTA
-🇲🇽 MÉXICO
-#	Nombre	Cargo	Medio/Programa	País	Contacto Público	Por qué encaja	Prioridad
-18	Dr. César Lozano	Conductora	"Por el Placer de Vivir"	México	podcast.feedspot.com/podcasts_hombres_mexico/	Podcast sobre superación personal y vivir bien. Audiencia interesada en historias inspiradoras 
-ALTA
-19	Kizaya Producciones	Productora de Podcasts	Kizaya (CDMX)	México	kizaya.com/es	Productora especializada en podcasts especializados. Crean contenido en español e inglés para audiencias globales 
-ALTA
-20	Equipo Somos Inspiración	Productores	"Somos Inspiración" Podcast	México	podcasts.apple.com/mx/podcast/somos-inspiraci%C3%B3n/id1755030863	Podcast que descubre historias de líderes de México. Inspiración y liderazgo 
-MEDIA
-🇨🇴 COLOMBIA
-#	Nombre	Cargo	Medio/Programa	País	Contacto Público	Por qué encaja	Prioridad
-21	Juan David Naranjo	Productor	Radio Ambulante Studios / "El Hilo"	Colombia	juan@radioambulante.org	Radio Ambulante busca historias movedorias sobre América Latina. Podcast narrativo distribuido por NPR 
-ALTA
-22	Centro Nacional de Memoria Histórica	Productores	Podcasts CNMH	Colombia	centrodememoriahistorica.gov.co/podcasts/	Organismo dedicado a historias de memoria y resiliencia colombiana 
-MEDIA
-🇪🇸 ESPAÑA
-#	Nombre	Cargo	Medio/Programa	País	Contacto Público	Por qué encaja	Prioridad
-23	Equipo RTVE	Productores	"Historia de América Latina" (RTVE Play)	España	rtve.es/play/videos/historia-de-america-latina	Programa sobre historia e imaginarios latinoamericanos. TVE cubre historias de América Latina 
-MEDIA
-24	Redacción EL PAÍS	Periodistas	EL PAÍS (España)	España	redaccion@elpais.es	Periódico líder en español. Sección de opinión y participación abierta a historias 
-MEDIA
-25	Carles Francino	Productor y conductor	Vivo Rock (TEA FM)	España	teafm.net/LRQQ/dossier_lrqq.pdf	Productor de radio con experiencia en narrativa 
-MEDIA
-🌎 PODCASTS NARRATIVOS INTERNACIONALES (En español)
-#	Nombre	Cargo	Medio/Programa	País	Contacto Público	Por qué encaja	Prioridad
-26	Lenny Fontana	Host	"True House Stories" Podcast	Internacional	contact@truehousestories.com	Podcast de entrevistas desde 2020. Historias de superficiales 
-MEDIA
-27	Equipo Historias Inspiradoras	Productores	"Historias Inspiradoras" Podcast	Internacional	ivoox.com/en/podcast-historias-inspiradoras_sq_f1475048_1.html	Relatos basados en historias reales de personas que superaron obstáculos 
-ALTA
-28	Resilient Stories	Equipo	Resilient Stories	Internacional	resilientstories.com/contact-us/	Sitio dedicado a historias de resiliencia. Buscan entrevistas y pitches 
-ALTA
-📰 BLOGS DE MÚSICA INDEPENDIENTE (Con enfoque en historias)
-#	Nombre	Cargo	Medio/Programa	País	Contacto Público	Por qué encaja	Prioridad
-29	IndiePulse Music	Equipo editorial	IndiePulse Music Zine	Internacional	indiepulsemusic.com/about/	Cubren historias de artistas indie que hacen lo que quieren. Entrevistas y reviews 
-ALTA
-30	Priya A	Music Journalist	Freelance	Internacional	linkedin.com/in/priya-attapatto	Periodista musical independiente 
-MEDIA
-🎯 ESTRATEGIA RECOMENDADA
-Públicos Prioritarios (Top 10):
-Emiliano Cotelo (Uruguay) - Contacto más accesible, historia local
-
-Equipo Cultural El País Uruguay - Ya publicaron sobre resiliencia uruguaya
-
-Juan David Naranjo / Radio Ambulante - Buscan historias latinoamericanas movedorias
-
-Tere Balmaceda (Chile) - Creadora de "Familias con Historia"
-
-María Florencia Alcaraz (Argentina) - Especialista en narrativa y derechos humanos
-
-Martín Seid (Argentina) - Productor de podcasts narrativos
-
-Alejandro Gorenstein (Argentina) - Especializado en resiliencia
-
-Sebastián Romero (Argentina) - Podcaster de narrativas
-
-Kizaya Producciones (México) - Productora de podcasts profesionales
-
-Resilient Stories - Sitio dedicado exclusivamente a resiliencia
-
-Ángulos de Pitch por Contacto:
-Uruguay: "Músico uruguayo sobrevive disparo a quemarropa y 25 años después publica primer álbum"
-
-Radio Ambulante: "25 años en coma y reconstrucción facial: cómo un músico uruguayo recuperó su voz con tecnología"
-
-Chile/Argentina: "Tecnología aplicada a la creatividad: cuando la IA permite que un músico con daño vocal cante nuevamente"
-
-España/Europa: "El regreso a un sueño después de 25 años: historia de resiliencia desde Uruguay"
-
-📋 LIMITACIONES Y RECOMENDACIONES
-Lo que necesitas completar:
-
-Correos personales específicos (requieren Hunter.io, Snov.io o bases de datos de pago como Cision/Meltwater)
-
-Perfiles de LinkedIn/Twitter individuales (búsqueda manual en cada plataforma)
-
-Formularios de contacto específicos de cada medio
-
-Herramientas recomendadas para completar la base:
-
-Hunter.io - Encontrar correos de periodistas por dominio
-
-LinkedIn Sales Navigator - Buscar periodistas por medio y especialidad
-
-Meltwater/Cision - Bases de datos profesionales de medios (pagas)
-
+respuesta BASE DE DATOS DE CONTACTOS PARA CAMPAÑA DE PRENSA INTERNACIONAL
+Historia de Mario Labitola - "We Don't Break" / Nocturne's Wake
+🇺🇾 URUGUAY (Prioridad Máxima)
+#	Nombre	Cargo	Medio/Programa	País	Contacto Público	Por qué encaja	Prioridad
+1	Emiliano Cotelo	Director y conductor	En Perspectiva (Radiomundo 1170 AM)	Uruguay	enperspectiva@enperspectiva.net	Programa de entrevistas más importante de Uruguay. Cubre historias humanas, cultura y resiliencia. Entrevista artistas independientes. Teléfono: +598 91 52 52 52 
+ALTA
+2	Jaime Clara	Conductora	Inmediaciones de la Cultura (ORT TV)	Uruguay	fc.ort.edu.uy/inmediaciones-de-la-cultura	Programa de entrevistas a referentes culturales. Especializado en perfiles de artistas y creadores 
+ALTA
+3	Equipo Cultural	Departamento de cultura	El País Uruguay	Uruguay	cultural@elpais.com.uy	Suplemento Cultural cubre historias de artistas uruguayos, resiliencia creativa. Publicó "Resiliencia: tres uruguayos que superaron la adversidad" 
+ALTA
+4	Andrés Silva	Cofundador y Director	Diario La Humanidad	Uruguay	linkedin.com/in/andrés-silva-979a3858	Diario enfocado en historias humanas y derechos humanos. Perfil alineado con historia de supervivencia 
+ALTA
+5	Juan Manuel Gari	Coordinador de Periodismo	Universidad de Montevideo	Uruguay	linkedin.com/in/juan-manuel-gari	Periodismo de narrativa, podría interesar historias de impacto social 
+MEDIA
+6	UyCast	Productora de podcasts	UyCast Red de Podcasts	Uruguay	uycast.com/sobre-uycast/	Productora de contenido independiente y alternativo. Creada para difundir contenido alternativo 
+ALTA
+7	Valentina Caredio	Periodista, Podcaster	Montevideo	Uruguay	linkedin.com/in/valentina-caredio-a260075b	Especializada en podcast y periodismo. Docencia en periodismo de audio 
+MEDIA
+🇦🇷 ARGENTINA
+#	Nombre	Cargo	Medio/Programa	País	Contacto Público	Por qué encaja	Prioridad
+8	María Florencia Alcaraz	Periodista investigadora, Editora	Buenos Aires	Argentina	linkedin.com/in/mariaflorencialcaraz	Especializada en narrativas con enfoque en género y derechos humanos. 15+ años en periodismo de investigación 
+ALTA
+9	Martín Seid	Director Creativo	Almacen de Podcast	Argentina	linkedin.com/in/martín-seid-2944a0208	Creación de podcasts y piezas artísticas con audio. Hace radio y producción narrativa 
+ALTA
+10	Sebastián Romero	Periodista, Podcaster	Buenos Aires	Argentina	linkedin.com/in/sebastián-romero-14605b250	Conduce "Charlas Minúsculas", editor de sonido de podcasts narrativos. Redactor en Minúscula 
+ALTA
+11	Alejandro Gorenstein	Periodista, Escritor	Buenos Aires	Argentina	linkedin.com/in/alejandro-gorenstein	Especializado en resiliencia y problemáticas sociales. 20+ años de trayectoria 
+ALTA
+12	Equipo Radio Nacional	Productores	"Contame una historia" (Radio Nacional Argentina)	Argentina	radionacional.com.ar/contame-una-historia/	Programa dedicado a historias de vida. Segmento "Contame tu historia" rescata vivencias 
+ALTA
+13	Celeste Giardinelli	Videojournalist, Content Creator	Buenos Aires	Argentina	linkedin.com/in/celegiardinelli	Columna en "Narraciones Extraordinarias" (Enzo Maqueira). Creadora de contenido sobre historias extraordinarias 
+MEDIA
+🇨🇱 CHILE
+#	Nombre	Cargo	Medio/Programa	País	Contacto Público	Por qué encaja	Prioridad
+14	Tere Balmaceda	Conductora, Locutora	"Familias con Historia" (Canal 13C), "Agenda Femenina" (Radio La Metro)	Chile	linkedin.com/in/tere-balmaceda-periodista-conductora	Creadora de "Familias con Historia". Narradora de historias con alma y emoción. Voz reconocida en Chile 
+ALTA
+15	Rafael Carneiro	Periodista	O Estado de Sao Paulo (basado en Santiago)	Chile	facebook.com/intendenciacolonia/posts	Periodista brasileño viviendo en Santiago 6 años. Cubre historias latinoamericanas 
+MEDIA
+16	Equipo Resiliencia	Productores	Podcast "Resiliencia" (Fundación Soymás + Radio Pauta)	Chile	publimetro.cl/social/2024/11/11/destacadas-actrices-chilenas-dan-vida-a-historias-reales	Podcast dedicado a historias de mujeres que desafían violencia. Historias reales en primera persona 
+ALTA
+17	Carmen Sánchez Alegre	Conductora	"Resiliencia Creativa" (PLUMA Lab)	España/Chile	open.spotify.com/show/1HKjCHNmjt4CIbr0WL1ogj	Conversa con creadores que convirtieron crisis en creatividad auténtica. Transformar desafíos en creatividad 
+ALTA
+🇲🇽 MÉXICO
+#	Nombre	Cargo	Medio/Programa	País	Contacto Público	Por qué encaja	Prioridad
+18	Dr. César Lozano	Conductora	"Por el Placer de Vivir"	México	podcast.feedspot.com/podcasts_hombres_mexico/	Podcast sobre superación personal y vivir bien. Audiencia interesada en historias inspiradoras 
+ALTA
+19	Kizaya Producciones	Productora de Podcasts	Kizaya (CDMX)	México	kizaya.com/es	Productora especializada en podcasts especializados. Crean contenido en español e inglés para audiencias globales 
+ALTA
+20	Equipo Somos Inspiración	Productores	"Somos Inspiración" Podcast	México	podcasts.apple.com/mx/podcast/somos-inspiraci%C3%B3n/id1755030863	Podcast que descubre historias de líderes de México. Inspiración y liderazgo 
+MEDIA
+🇨🇴 COLOMBIA
+#	Nombre	Cargo	Medio/Programa	País	Contacto Público	Por qué encaja	Prioridad
+21	Juan David Naranjo	Productor	Radio Ambulante Studios / "El Hilo"	Colombia	juan@radioambulante.org	Radio Ambulante busca historias movedorias sobre América Latina. Podcast narrativo distribuido por NPR 
+ALTA
+22	Centro Nacional de Memoria Histórica	Productores	Podcasts CNMH	Colombia	centrodememoriahistorica.gov.co/podcasts/	Organismo dedicado a historias de memoria y resiliencia colombiana 
+MEDIA
+🇪🇸 ESPAÑA
+#	Nombre	Cargo	Medio/Programa	País	Contacto Público	Por qué encaja	Prioridad
+23	Equipo RTVE	Productores	"Historia de América Latina" (RTVE Play)	España	rtve.es/play/videos/historia-de-america-latina	Programa sobre historia e imaginarios latinoamericanos. TVE cubre historias de América Latina 
+MEDIA
+24	Redacción EL PAÍS	Periodistas	EL PAÍS (España)	España	redaccion@elpais.es	Periódico líder en español. Sección de opinión y participación abierta a historias 
+MEDIA
+25	Carles Francino	Productor y conductor	Vivo Rock (TEA FM)	España	teafm.net/LRQQ/dossier_lrqq.pdf	Productor de radio con experiencia en narrativa 
+MEDIA
+🌎 PODCASTS NARRATIVOS INTERNACIONALES (En español)
+#	Nombre	Cargo	Medio/Programa	País	Contacto Público	Por qué encaja	Prioridad
+26	Lenny Fontana	Host	"True House Stories" Podcast	Internacional	contact@truehousestories.com	Podcast de entrevistas desde 2020. Historias de superficiales 
+MEDIA
+27	Equipo Historias Inspiradoras	Productores	"Historias Inspiradoras" Podcast	Internacional	ivoox.com/en/podcast-historias-inspiradoras_sq_f1475048_1.html	Relatos basados en historias reales de personas que superaron obstáculos 
+ALTA
+28	Resilient Stories	Equipo	Resilient Stories	Internacional	resilientstories.com/contact-us/	Sitio dedicado a historias de resiliencia. Buscan entrevistas y pitches 
+ALTA
+📰 BLOGS DE MÚSICA INDEPENDIENTE (Con enfoque en historias)
+#	Nombre	Cargo	Medio/Programa	País	Contacto Público	Por qué encaja	Prioridad
+29	IndiePulse Music	Equipo editorial	IndiePulse Music Zine	Internacional	indiepulsemusic.com/about/	Cubren historias de artistas indie que hacen lo que quieren. Entrevistas y reviews 
+ALTA
+30	Priya A	Music Journalist	Freelance	Internacional	linkedin.com/in/priya-attapatto	Periodista musical independiente 
+MEDIA
+🎯 ESTRATEGIA RECOMENDADA
+Públicos Prioritarios (Top 10):
+Emiliano Cotelo (Uruguay) - Contacto más accesible, historia local
+
+Equipo Cultural El País Uruguay - Ya publicaron sobre resiliencia uruguaya
+
+Juan David Naranjo / Radio Ambulante - Buscan historias latinoamericanas movedorias
+
+Tere Balmaceda (Chile) - Creadora de "Familias con Historia"
+
+María Florencia Alcaraz (Argentina) - Especialista en narrativa y derechos humanos
+
+Martín Seid (Argentina) - Productor de podcasts narrativos
+
+Alejandro Gorenstein (Argentina) - Especializado en resiliencia
+
+Sebastián Romero (Argentina) - Podcaster de narrativas
+
+Kizaya Producciones (México) - Productora de podcasts profesionales
+
+Resilient Stories - Sitio dedicado exclusivamente a resiliencia
+
+Ángulos de Pitch por Contacto:
+Uruguay: "Músico uruguayo sobrevive disparo a quemarropa y 25 años después publica primer álbum"
+
+Radio Ambulante: "25 años en coma y reconstrucción facial: cómo un músico uruguayo recuperó su voz con tecnología"
+
+Chile/Argentina: "Tecnología aplicada a la creatividad: cuando la IA permite que un músico con daño vocal cante nuevamente"
+
+España/Europa: "El regreso a un sueño después de 25 años: historia de resiliencia desde Uruguay"
+
+📋 LIMITACIONES Y RECOMENDACIONES
+Lo que necesitas completar:
+
+Correos personales específicos (requieren Hunter.io, Snov.io o bases de datos de pago como Cision/Meltwater)
+
+Perfiles de LinkedIn/Twitter individuales (búsqueda manual en cada plataforma)
+
+Formularios de contacto específicos de cada medio
+
+Herramientas recomendadas para completar la base:
+
+Hunter.io - Encontrar correos de periodistas por dominio
+
+LinkedIn Sales Navigator - Buscar periodistas por medio y especialidad
+
+Meltwater/Cision - Bases de datos profesionales de medios (pagas)
+
 SembraMedia Directorio - directorio.sembramedia.org (podcasters latinos)

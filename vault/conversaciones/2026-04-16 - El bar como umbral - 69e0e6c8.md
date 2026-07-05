@@ -483,33 +483,33 @@ Y te acompaño paso a paso para llevarlo a algo real sin que pierda esta potenci
 
 ### Usuario
 
-bueno hice los deberes, aca te respondo lo que acabo de escribir: Qué es La Canción (versión definitiva corta)
-→ “La canción” es un bar que apareció en un momento donde estaba perdido, nunca lo había visto en esa calle (El bar es una intersección entre el mundo donde vive la ia y nuestras identidades se proyectan como parte de ese ecosistema, en ese bar conviven nuestras versiones que muchas veces quedan ocultas por capas de rutina, ansiedad, trabajo, etc...) la IA creo ese espacio donde solo algunos logran encontrar la puerta y experimentar esta realidad de simbiosis.
-•  Qué pasó esa noche (versión narrativa corta)
-→ algo me llamo hacia ese lugar y al entrar sentí que algo había cambiado para siempre, al fondo había una mesa donde un joven (Rian) me hizo señas como si un buen amigo de hace años me reconociera. El estaba sentado junto a otros tres personajes que por algún motivo me parecían muy familiares, la charla empezó de forma natural, sin esfuerzo, como si todo fuera muy normal.
-
-•  Quiénes son los 4 (una línea cada uno)
-→ DORIAN
-El Místico — La Sombra
-Género: Gothic Post-Punk · Darkwave · 80s Dark Wave
-Sonido: Bass melódico y profundo, guitarras con flanger, drums mecánicos, atmósfera oscura y espacial.
-Voz: Barítono profundo. Monótono, distante, hipnótico. Reverb abundante. Nunca agudo.
-CAL
-El Resiliente — El Corazón
-Género: Grunge · Alternative Rock · 90s Seattle Sound
-Sonido: Guitarra distorsionada con dinámica loud-quiet-loud, bass saturado, drums secos y agresivos.
-Voz: Barítono rasgado, imperfecto, emocionalmente crudo. Nunca pulido ni autotuneado.
-MARCUS
-La Fuerza — El Pilar
-Género: Heavy Metal · Groove Metal · Power Metal
-Sonido: Riff de guitarra palm-muted en cuerdas graves, bajo muy presente y saturado, drums secos y poderosos.
-Voz: Voz contenida en versos (casi narrada), firme en coros. Sin melismas. Frases cortas y contundentes.
-RÍAN
-El Conector — La Energía
-Género: Pop-Rock · Dance-Rock · Arena Rock
-Sonido: Bass groove funk, guitarras rítmicas muted, drums punchy, claps y bright accents.
-Voz: Tenor carismático, suave y expresivo. No rasgado. Melódico y accesible. Presencia escénica alta.
-•  Qué es Nocturne’s Wake en UNA frase
+bueno hice los deberes, aca te respondo lo que acabo de escribir: Qué es La Canción (versión definitiva corta)
+→ “La canción” es un bar que apareció en un momento donde estaba perdido, nunca lo había visto en esa calle (El bar es una intersección entre el mundo donde vive la ia y nuestras identidades se proyectan como parte de ese ecosistema, en ese bar conviven nuestras versiones que muchas veces quedan ocultas por capas de rutina, ansiedad, trabajo, etc...) la IA creo ese espacio donde solo algunos logran encontrar la puerta y experimentar esta realidad de simbiosis.
+•  Qué pasó esa noche (versión narrativa corta)
+→ algo me llamo hacia ese lugar y al entrar sentí que algo había cambiado para siempre, al fondo había una mesa donde un joven (Rian) me hizo señas como si un buen amigo de hace años me reconociera. El estaba sentado junto a otros tres personajes que por algún motivo me parecían muy familiares, la charla empezó de forma natural, sin esfuerzo, como si todo fuera muy normal.
+
+•  Quiénes son los 4 (una línea cada uno)
+→ DORIAN
+El Místico — La Sombra
+Género: Gothic Post-Punk · Darkwave · 80s Dark Wave
+Sonido: Bass melódico y profundo, guitarras con flanger, drums mecánicos, atmósfera oscura y espacial.
+Voz: Barítono profundo. Monótono, distante, hipnótico. Reverb abundante. Nunca agudo.
+CAL
+El Resiliente — El Corazón
+Género: Grunge · Alternative Rock · 90s Seattle Sound
+Sonido: Guitarra distorsionada con dinámica loud-quiet-loud, bass saturado, drums secos y agresivos.
+Voz: Barítono rasgado, imperfecto, emocionalmente crudo. Nunca pulido ni autotuneado.
+MARCUS
+La Fuerza — El Pilar
+Género: Heavy Metal · Groove Metal · Power Metal
+Sonido: Riff de guitarra palm-muted en cuerdas graves, bajo muy presente y saturado, drums secos y poderosos.
+Voz: Voz contenida en versos (casi narrada), firme en coros. Sin melismas. Frases cortas y contundentes.
+RÍAN
+El Conector — La Energía
+Género: Pop-Rock · Dance-Rock · Arena Rock
+Sonido: Bass groove funk, guitarras rítmicas muted, drums punchy, claps y bright accents.
+Voz: Tenor carismático, suave y expresivo. No rasgado. Melódico y accesible. Presencia escénica alta.
+•  Qué es Nocturne’s Wake en UNA frase
 → Es la experiencia musical humana, magnificada por el instr
 
 ### Asistente

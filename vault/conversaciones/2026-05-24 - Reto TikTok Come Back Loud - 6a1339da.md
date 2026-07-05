@@ -72,54 +72,54 @@ Pásame la letra completa o aunque sea el estribillo y algunos versos clave, y h
 
 ### Usuario
 
-Night air under broken lights
-Static humming in my chest
-You say nothing I can feel it
-Something heavy in the air
-Every word you never told me
-Pulling deeper somewhere
-
-I was trying not to look at you
-Trying not to fall again
-But the silence in your breathing
-Pulls me closer than it should
-
-I can feel the moment coming
-Like a storm inside my head
-
-It's come back loud!
-Breaking through the silence
-You come back loud!
-Running through my veins
-Every time I try to leave it
-You pull me down again
-You come back loud!
-And I feel it again!
-
-Same room different warning
-Same fire in your eyes
-Every step we take together
-Feels like crossing lines
-I can hear the riff inside me
-Like a pulse I can't escape
-Every breath is getting heavier
-Every move a new mistake
-
-Maybe I should walk away now
-Maybe I should let it die
-But the sound inside my heartbeat
-Says I'm already
-
-Inside!
-
-You come back loud!
-Breaking through the silence
-You come back loud!
-Running through my veins
-Every time I try to leave it
-You pull me down again
-You come back loud!
-And I feel it again!
+Night air under broken lights
+Static humming in my chest
+You say nothing I can feel it
+Something heavy in the air
+Every word you never told me
+Pulling deeper somewhere
+
+I was trying not to look at you
+Trying not to fall again
+But the silence in your breathing
+Pulls me closer than it should
+
+I can feel the moment coming
+Like a storm inside my head
+
+It's come back loud!
+Breaking through the silence
+You come back loud!
+Running through my veins
+Every time I try to leave it
+You pull me down again
+You come back loud!
+And I feel it again!
+
+Same room different warning
+Same fire in your eyes
+Every step we take together
+Feels like crossing lines
+I can hear the riff inside me
+Like a pulse I can't escape
+Every breath is getting heavier
+Every move a new mistake
+
+Maybe I should walk away now
+Maybe I should let it die
+But the sound inside my heartbeat
+Says I'm already
+
+Inside!
+
+You come back loud!
+Breaking through the silence
+You come back loud!
+Running through my veins
+Every time I try to leave it
+You pull me down again
+You come back loud!
+And I feel it again!
 Loud loud
 
 ### Asistente

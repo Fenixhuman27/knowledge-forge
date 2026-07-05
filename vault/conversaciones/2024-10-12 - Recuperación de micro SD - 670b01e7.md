@@ -17,22 +17,22 @@ VAMOS A RECUPERAR UNA MICRO SD
 
 ### Usuario
 
-NO HAY MEDIOS Description: [D:]Dispositivo de almacenamiento USB(Mass Storage Device)
-Device Type:        Mass Storage Device
-
-Protocal Version: USB 2.00
-Current Speed: High Speed
-Max Current: 100mA
-
-USB Device ID: VID = 14CD PID = 1212
-Serial Number: 121220160204
-
-Device Vendor: Generic
-Device Name: Mass Storage Device
-Device Revision: 0100
-
-Manufacturer: Mass
-Product Model: Storage Device
+NO HAY MEDIOS Description: [D:]Dispositivo de almacenamiento USB(Mass Storage Device)
+Device Type:        Mass Storage Device
+
+Protocal Version: USB 2.00
+Current Speed: High Speed
+Max Current: 100mA
+
+USB Device ID: VID = 14CD PID = 1212
+Serial Number: 121220160204
+
+Device Vendor: Generic
+Device Name: Mass Storage Device
+Device Revision: 0100
+
+Manufacturer: Mass
+Product Model: Storage Device
 Product Revision: 1.00
 
 ### Asistente

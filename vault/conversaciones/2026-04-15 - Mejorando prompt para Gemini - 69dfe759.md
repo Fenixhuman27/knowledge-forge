@@ -206,7 +206,7 @@ A ver cómo te sale a tí
 
 ### Usuario
 
-NECESITO UN SUPER PROMPT DER ESOS QUE TE VUELAN LA CABEZA CUANDO VES EL RESULTADO, TENEMOS QUE HACER DE ESTA MINI HISTORIA UNA IMAGEN PARA LA MINI HISTORIA DE LA CANCION “Come Back Loud”
+NECESITO UN SUPER PROMPT DER ESOS QUE TE VUELAN LA CABEZA CUANDO VES EL RESULTADO, TENEMOS QUE HACER DE ESTA MINI HISTORIA UNA IMAGEN PARA LA MINI HISTORIA DE LA CANCION “Come Back Loud”
 Dos personas con una historia intensa y conflictiva se reencuentran una y otra vez. Él intenta alejarse, pero cada vez que cree haberlo logrado, ella vuelve con más fuerza, reactivando emociones que nunca sanaron. La relación es un ciclo de atracción y destrucción, donde el deseo siempre termina ganándole a la razón. " ESTA ES LA MINI HISTORIA QUE VIVE EN ESA CANCION, DEBEMOS HACER UN PROMPT PARA QUE GEMINI CREE UNA FOTOGRAFIA REAL CON UNA CHICA MUY BONITA (sin imagen de referencia) Y LA IMAGEN DE CAL COMO IMAGEN DE REFERENCIA representando una escena que transimita toda la mini historia en formato fotografia ultra realista en un buen formato fotografico... me ayudas?
 
 ### Asistente
@@ -442,7 +442,7 @@ Ella sabe que el va a volver...
 
 ### Usuario
 
-vamos a hacer la imagen para la cancion “White Kiss”
+vamos a hacer la imagen para la cancion “White Kiss”
 (Un artista cae en una espiral de fama, adicción y manipulación tras conocer a una mujer enigmática. Ella representa tentación y destrucción, llevándolo a un mundo de excesos del que no puede escapar. A medida que pierde el control, queda atrapado en una red donde el placer y el dolor se mezclan hasta consumirlo por completo.) te voy a pedir un prompt para gemini que la obligue a crear una imagen que represnte el parrafo que te acabo de pasar, la mujer es una referencia a la cocaina, debemos crear una imagen de mujer que se pueda identificar como la personalizacion de la adiccion a esta droga, la imagen va a tener a Dorian como imagen de referencia, la mujer como dije debe reprentar todo lo que esta en el parrafo entre parentesis. el prompt tiene que obligar a gemini a crear una fotografia real utilizando la imagen de dorian como referencia absoluta sin cambiar nada y debe respetar el contexto entre parentesis con una calidad de fotografia real de alta resolucion, el lugar debe ser una habitacion (dormitorio) con valas y una tematica algo gotica sin exagerar demasiado, estamos ante dos personas que navegan en el mundo gótico dark. el tiene que tener una actitud que refleje la realidad en la que esta inmerso.
 
 ### Usuario

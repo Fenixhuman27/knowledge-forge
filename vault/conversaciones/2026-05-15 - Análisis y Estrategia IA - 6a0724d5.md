@@ -2763,32 +2763,32 @@ Así trabajan MUCHOS proyectos IA cinematográficos hoy.
 
 ### Usuario
 
-vamos a trabajar el paso 4, en este estamos teniendo problemas "Maintain exact continuity of all characters and environments from the attached references.
-
-The bald protagonist stands inside BAR LA CANCIÓN for the first time.
-
-The bar is full of realistic people who normally would never coexist together.
-
-Musicians, lost souls, artists, strangers.
-
-Everyone feels strangely familiar.
-
-The atmosphere is warm, emotional and deeply human.
-
-At the back of the bar there is a table where the four characters from the reference image are sitting together.
-
-Rian notices the protagonist first.
-
-Dorian quietly looks down at his drink.
-
-Marcus is relaxed and observant.
-
-Cal leans back casually wearing the Nirvana shirt.
-
-Cinematic realism.
-Authentic facial expressions.
-Natural lighting.
-35mm film still.
+vamos a trabajar el paso 4, en este estamos teniendo problemas "Maintain exact continuity of all characters and environments from the attached references.
+
+The bald protagonist stands inside BAR LA CANCIÓN for the first time.
+
+The bar is full of realistic people who normally would never coexist together.
+
+Musicians, lost souls, artists, strangers.
+
+Everyone feels strangely familiar.
+
+The atmosphere is warm, emotional and deeply human.
+
+At the back of the bar there is a table where the four characters from the reference image are sitting together.
+
+Rian notices the protagonist first.
+
+Dorian quietly looks down at his drink.
+
+Marcus is relaxed and observant.
+
+Cal leans back casually wearing the Nirvana shirt.
+
+Cinematic realism.
+Authentic facial expressions.
+Natural lighting.
+35mm film still.
 Grounded emotional atmosphere." debe mantener la escena al cual es mas debe ser la continuidad de nuestra imagen de referencia, no le des tanta informacion solo pidele que rian se levante y salude al hombre protagonista
 
 ### Usuario
@@ -2872,26 +2872,26 @@ Ahí ya empezó a aparecer magia narrativa real.
 
 ### Usuario
 
-Maintain EVERYTHING exactly the same.
-
-Do not change:
-- faces,
-- composition,
-- lighting,
-- atmosphere,
-- body positions,
-- camera angle,
-- emotions,
-- table,
-- background,
-- or character continuity.
-
-ONLY correct Cal's shirt.
-
-Cal must wear the exact same  nocturne's wake t-shirt from the original reference image.
-
-The logo must look subtle, vintage and realistic.
-
+Maintain EVERYTHING exactly the same.
+
+Do not change:
+- faces,
+- composition,
+- lighting,
+- atmosphere,
+- body positions,
+- camera angle,
+- emotions,
+- table,
+- background,
+- or character continuity.
+
+ONLY correct Cal's shirt.
+
+Cal must wear the exact same  nocturne's wake t-shirt from the original reference image.
+
+The logo must look subtle, vintage and realistic.
+
 Everything else must remain identical.
 
 ### Usuario

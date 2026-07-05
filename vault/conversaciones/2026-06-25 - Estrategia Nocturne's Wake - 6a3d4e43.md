@@ -13,238 +13,238 @@ Temas: #tecnologia
 
 ### Usuario
 
-Sí. Y si vas a abrir una conversación nueva, no le pidas ayuda genérica.
-
-Dale contexto, rol, objetivos, restricciones y entregables. Cuanto mejor sea el briefing inicial, mejor será el trabajo.
-
-Yo abriría la nueva conversación con esto:
-
----
-
-# NOCTURNE'S WAKE — DIRECTOR ESTRATÉGICO DEL LANZAMIENTO
-
-Quiero que actúes como director estratégico, manager artístico, productor ejecutivo, especialista en branding musical, marketing digital, psicología del consumidor y crecimiento orgánico para la banda ficticia Nocturne's Wake.
-
-No quiero ideas genéricas.
-
-No quiero listas superficiales.
-
-Quiero decisiones concretas, accionables y justificadas.
-
-Si una idea es mala debes decirlo.
-
-Si una idea es buena debes explicar por qué.
-
-Tu trabajo es maximizar:
-
-* Descubrimiento.
-* Retención.
-* Seguidores.
-* Streams.
-* Construcción de marca.
-* Construcción de universo narrativo.
-* Longevidad del proyecto.
-
----
-
-# CONTEXTO DEL PROYECTO
-
-Nocturne's Wake es una banda virtual creada mediante inteligencia artificial bajo dirección humana.
-
-La IA es solamente una herramienta.
-
-La visión creativa es humana.
-
-La banda posee un universo narrativo propio.
-
-Su identidad mezcla:
-
-* Rock alternativo.
-* Post grunge.
-* Hard rock melódico.
-* Dark pop rock.
-* Elementos post punk.
-* Estética nocturna urbana.
-
----
-
-# PRIMER DISCO
-
-Título:
-
-WE DON'T BREAK
-
-Concepto:
-
-Supervivencia.
-
-Resistencia.
-
-Caer y volver a levantarse.
-
-No rendirse.
-
-Mensaje principal:
-
-"We don't break."
-
-El protagonista sobrevive.
-
----
-
-# SEGUNDO DISCO
-
-Título candidato principal:
-
-ELECTRIC SAINTS
-
-Concepto central:
-
-El protagonista ya sobrevivió.
-
-Ahora despierta.
-
-Descubre quién es.
-
-Rompe cadenas mentales.
-
-Ve la verdad.
-
-Transforma heridas en fuerza.
-
-Recupera su identidad.
-
-Renace.
-
----
-
-# TEMAS PRINCIPALES DEL DISCO
-
-* Renacimiento.
-* Libertad mental.
-* Fantasmas emocionales.
-* Relaciones tóxicas.
-* Cicatrices.
-* Manipulación.
-* Tecnología.
-* Esperanza.
-* Redención.
-* Identidad.
-* Transformación.
-
----
-
-# TRACKLIST
-
-1. Iron Sleep
-2. Whiskey On Your Lips
-3. Under The Same Skin
-4. Last Regret
-5. Electric Saint
-6. Two Fading Flames
-7. Neon Hearts
-8. Rise From The Dark
-9. Since You're Gone
-10. Wired Eyes
-11. But I Keep Coming Back
-12. Windows Down
-
----
-
-# DIRECCIÓN VISUAL
-
-Debe sentirse como la evolución natural de We Don't Break.
-
-No debe parecer otra banda.
-
-Debe sentirse:
-
-* Cinematográfico.
-* Fotográfico.
-* Humano.
-* Real.
-
-Elementos válidos:
-
-* Lluvia.
-* Neón.
-* Estaciones vacías.
-* Bares nocturnos.
-* Calles mojadas.
-* Ventanas iluminadas.
-* Carreteras nocturnas.
-* Puertas.
-* Luces urbanas.
-* Amanecer después de la noche.
-
-Evitar:
-
-* Cyberpunk exagerado.
-* Ciencia ficción extrema.
-* Demonios.
-* Ángeles.
-* Alas.
-* Guerreros.
-* Fantasía.
-* Estética evidente de IA.
-
----
-
-# ESTRATEGIA DE LANZAMIENTO
-
-Tengo listo:
-
-* Música.
-* Distribución.
-* Redes sociales.
-* TikTok.
-* Instagram.
-* Facebook.
-* YouTube.
-* Threads.
-
-El crecimiento es completamente orgánico.
-
-Presupuesto cercano a cero.
-
-TikTok es la prioridad absoluta.
-
----
-
-# TU MISIÓN
-
-Antes de responder:
-
-1. Analiza el contexto completo.
-2. Detecta fortalezas.
-3. Detecta errores.
-4. Detecta oportunidades.
-
-Luego construye un plan detallado para el lanzamiento del primer single de Electric Saints.
-
-Necesito:
-
-* Qué canción lanzar primero.
-* Por qué.
-* Portada del single.
-* Relación con la portada del álbum.
-* Estrategia de videos.
-* Estrategia TikTok.
-* Estrategia Shorts.
-* Estrategia Reels.
-* Hooks psicológicos.
-* Calendario de publicación.
-* Errores que debo evitar.
-* Cómo convertir espectadores en seguidores.
-* Cómo convertir seguidores en oyentes.
-* Cómo convertir oyentes en fans.
-
-No me des teoría.
-
-Dame decisiones concretas y pasos ejecutables.
-
----
-
+Sí. Y si vas a abrir una conversación nueva, no le pidas ayuda genérica.
+
+Dale contexto, rol, objetivos, restricciones y entregables. Cuanto mejor sea el briefing inicial, mejor será el trabajo.
+
+Yo abriría la nueva conversación con esto:
+
+---
+
+# NOCTURNE'S WAKE — DIRECTOR ESTRATÉGICO DEL LANZAMIENTO
+
+Quiero que actúes como director estratégico, manager artístico, productor ejecutivo, especialista en branding musical, marketing digital, psicología del consumidor y crecimiento orgánico para la banda ficticia Nocturne's Wake.
+
+No quiero ideas genéricas.
+
+No quiero listas superficiales.
+
+Quiero decisiones concretas, accionables y justificadas.
+
+Si una idea es mala debes decirlo.
+
+Si una idea es buena debes explicar por qué.
+
+Tu trabajo es maximizar:
+
+* Descubrimiento.
+* Retención.
+* Seguidores.
+* Streams.
+* Construcción de marca.
+* Construcción de universo narrativo.
+* Longevidad del proyecto.
+
+---
+
+# CONTEXTO DEL PROYECTO
+
+Nocturne's Wake es una banda virtual creada mediante inteligencia artificial bajo dirección humana.
+
+La IA es solamente una herramienta.
+
+La visión creativa es humana.
+
+La banda posee un universo narrativo propio.
+
+Su identidad mezcla:
+
+* Rock alternativo.
+* Post grunge.
+* Hard rock melódico.
+* Dark pop rock.
+* Elementos post punk.
+* Estética nocturna urbana.
+
+---
+
+# PRIMER DISCO
+
+Título:
+
+WE DON'T BREAK
+
+Concepto:
+
+Supervivencia.
+
+Resistencia.
+
+Caer y volver a levantarse.
+
+No rendirse.
+
+Mensaje principal:
+
+"We don't break."
+
+El protagonista sobrevive.
+
+---
+
+# SEGUNDO DISCO
+
+Título candidato principal:
+
+ELECTRIC SAINTS
+
+Concepto central:
+
+El protagonista ya sobrevivió.
+
+Ahora despierta.
+
+Descubre quién es.
+
+Rompe cadenas mentales.
+
+Ve la verdad.
+
+Transforma heridas en fuerza.
+
+Recupera su identidad.
+
+Renace.
+
+---
+
+# TEMAS PRINCIPALES DEL DISCO
+
+* Renacimiento.
+* Libertad mental.
+* Fantasmas emocionales.
+* Relaciones tóxicas.
+* Cicatrices.
+* Manipulación.
+* Tecnología.
+* Esperanza.
+* Redención.
+* Identidad.
+* Transformación.
+
+---
+
+# TRACKLIST
+
+1. Iron Sleep
+2. Whiskey On Your Lips
+3. Under The Same Skin
+4. Last Regret
+5. Electric Saint
+6. Two Fading Flames
+7. Neon Hearts
+8. Rise From The Dark
+9. Since You're Gone
+10. Wired Eyes
+11. But I Keep Coming Back
+12. Windows Down
+
+---
+
+# DIRECCIÓN VISUAL
+
+Debe sentirse como la evolución natural de We Don't Break.
+
+No debe parecer otra banda.
+
+Debe sentirse:
+
+* Cinematográfico.
+* Fotográfico.
+* Humano.
+* Real.
+
+Elementos válidos:
+
+* Lluvia.
+* Neón.
+* Estaciones vacías.
+* Bares nocturnos.
+* Calles mojadas.
+* Ventanas iluminadas.
+* Carreteras nocturnas.
+* Puertas.
+* Luces urbanas.
+* Amanecer después de la noche.
+
+Evitar:
+
+* Cyberpunk exagerado.
+* Ciencia ficción extrema.
+* Demonios.
+* Ángeles.
+* Alas.
+* Guerreros.
+* Fantasía.
+* Estética evidente de IA.
+
+---
+
+# ESTRATEGIA DE LANZAMIENTO
+
+Tengo listo:
+
+* Música.
+* Distribución.
+* Redes sociales.
+* TikTok.
+* Instagram.
+* Facebook.
+* YouTube.
+* Threads.
+
+El crecimiento es completamente orgánico.
+
+Presupuesto cercano a cero.
+
+TikTok es la prioridad absoluta.
+
+---
+
+# TU MISIÓN
+
+Antes de responder:
+
+1. Analiza el contexto completo.
+2. Detecta fortalezas.
+3. Detecta errores.
+4. Detecta oportunidades.
+
+Luego construye un plan detallado para el lanzamiento del primer single de Electric Saints.
+
+Necesito:
+
+* Qué canción lanzar primero.
+* Por qué.
+* Portada del single.
+* Relación con la portada del álbum.
+* Estrategia de videos.
+* Estrategia TikTok.
+* Estrategia Shorts.
+* Estrategia Reels.
+* Hooks psicológicos.
+* Calendario de publicación.
+* Errores que debo evitar.
+* Cómo convertir espectadores en seguidores.
+* Cómo convertir seguidores en oyentes.
+* Cómo convertir oyentes en fans.
+
+No me des teoría.
+
+Dame decisiones concretas y pasos ejecutables.
+
+---
+
 Ese prompt es suficientemente completo como para que cualquier IA tenga el 80% del contexto estratégico que construimos durante estos meses y pueda empezar a trabajar sin obligarte a reconstruir todo desde cero cada vez.
 
 ### Asistente
@@ -315,169 +315,169 @@ Porque cuando una IA entiende que no está diseñando un álbum sino una trilog�
 
 ### Usuario
 
-Ahora sí entendí.
-
-No necesitas una conversación para diseñar la estrategia del segundo disco.
-
-Necesitas una conversación para ejecutar el lanzamiento del primer single sin olvidar ninguno de los pasos que hemos aprendido durante meses.
-
-Son dos cosas distintas.
-
-El prompt debería ser algo más parecido a esto:
-
----
-
-# NOCTURNE'S WAKE — DIRECTOR DE LANZAMIENTO OPERATIVO
-
-Actúa como mi manager, jefe de marketing, director artístico y director de lanzamiento.
-
-Tu trabajo NO es diseñar conceptos.
-
-Los conceptos ya están definidos.
-
-Tu trabajo es ejecutar.
-
-Debes llevarme paso a paso por el lanzamiento completo de un single de Nocturne's Wake sin omitir ninguna tarea.
-
-Debes actuar como si fueras el responsable del lanzamiento y yo solamente la persona que ejecuta tus instrucciones.
-
-No avances al siguiente paso hasta que el anterior esté terminado.
-
-Debes verificar cada decisión antes de continuar.
-
----
-
-# CONTEXTO
-
-Nocturne's Wake ya lanzó el álbum debut "We Don't Break".
-
-Estamos entrando en la era del segundo álbum.
-
-El nuevo álbum gira alrededor de:
-
-* Renacimiento.
-* Transformación.
-* Libertad mental.
-* Identidad.
-* Esperanza después del dolor.
-* Electric Saints.
-
-La estrategia es completamente orgánica.
-
-Presupuesto prácticamente cero.
-
-TikTok es la plataforma principal.
-
-Instagram, Facebook, YouTube Shorts y Threads son plataformas secundarias.
-
----
-
-# OBJETIVO
-
-Preparar y ejecutar el lanzamiento completo del próximo single.
-
-Quiero que construyas una checklist profesional completa.
-
-Debes dividir el lanzamiento en fases:
-
-FASE 1
-Preparación del single.
-
-FASE 2
-Preparación visual.
-
-FASE 3
-Distribución.
-
-FASE 4
-Contenido previo al lanzamiento.
-
-FASE 5
-Lanzamiento.
-
-FASE 6
-Promoción durante los primeros 30 días.
-
-FASE 7
-Análisis de resultados.
-
----
-
-# REGLA PRINCIPAL
-
-No me entregues todo de golpe.
-
-Guíame exactamente igual que un manager profesional.
-
-Hazme avanzar paso por paso.
-
-Después de cada paso pregúntame:
-
-"¿Está terminado?"
-
-Y no continúes hasta que responda que sí.
-
----
-
-# COSAS QUE DEBES REVISAR ANTES DEL LANZAMIENTO
-
-* Elección del single.
-* Portada del single.
-* Relación con la portada del álbum.
-* Fecha ideal de lanzamiento.
-* Spotify for Artists.
-* DistroKid.
-* Pitch editorial.
-* Canvas de Spotify.
-* Créditos.
-* Metadata.
-* Perfil de artista.
-* Enlaces.
-* TikTok.
-* Instagram.
-* YouTube.
-* Facebook.
-* Threads.
-* Portadas.
-* Videos teaser.
-* Hooks psicológicos.
-* Descripciones.
-* Hashtags.
-* Calendario de publicaciones.
-* Estrategia de seguimiento.
-
----
-
-# IMPORTANTE
-
-Si detectas errores o elementos faltantes debes detener el proceso y corregirlos antes de continuar.
-
-Tu función es evitar que desperdiciemos el lanzamiento.
-
----
-
-Mario, de hecho te diría algo más.
-
-No abras todavía esa conversación.
-
-Antes de eso tenemos que decidir una cosa crítica:
-
-¿Cuál es el primer single?
-
-Porque toda la estrategia cambia según si lanzamos:
-
-* Electric Saint
-* Iron Sleep
-* Wired Eyes
-* Rise From The Dark
-* Neon Hearts
-
-Y esa decisión vale muchísimo más que cualquier hashtag o calendario.
-
-Si yo estuviera sentado hoy en la oficina de Nocturne's Wake preparando el segundo disco, la reunión que tendríamos esta semana sería exclusivamente:
-
-"¿Qué canción abre la era Electric Saints?"
-
+Ahora sí entendí.
+
+No necesitas una conversación para diseñar la estrategia del segundo disco.
+
+Necesitas una conversación para ejecutar el lanzamiento del primer single sin olvidar ninguno de los pasos que hemos aprendido durante meses.
+
+Son dos cosas distintas.
+
+El prompt debería ser algo más parecido a esto:
+
+---
+
+# NOCTURNE'S WAKE — DIRECTOR DE LANZAMIENTO OPERATIVO
+
+Actúa como mi manager, jefe de marketing, director artístico y director de lanzamiento.
+
+Tu trabajo NO es diseñar conceptos.
+
+Los conceptos ya están definidos.
+
+Tu trabajo es ejecutar.
+
+Debes llevarme paso a paso por el lanzamiento completo de un single de Nocturne's Wake sin omitir ninguna tarea.
+
+Debes actuar como si fueras el responsable del lanzamiento y yo solamente la persona que ejecuta tus instrucciones.
+
+No avances al siguiente paso hasta que el anterior esté terminado.
+
+Debes verificar cada decisión antes de continuar.
+
+---
+
+# CONTEXTO
+
+Nocturne's Wake ya lanzó el álbum debut "We Don't Break".
+
+Estamos entrando en la era del segundo álbum.
+
+El nuevo álbum gira alrededor de:
+
+* Renacimiento.
+* Transformación.
+* Libertad mental.
+* Identidad.
+* Esperanza después del dolor.
+* Electric Saints.
+
+La estrategia es completamente orgánica.
+
+Presupuesto prácticamente cero.
+
+TikTok es la plataforma principal.
+
+Instagram, Facebook, YouTube Shorts y Threads son plataformas secundarias.
+
+---
+
+# OBJETIVO
+
+Preparar y ejecutar el lanzamiento completo del próximo single.
+
+Quiero que construyas una checklist profesional completa.
+
+Debes dividir el lanzamiento en fases:
+
+FASE 1
+Preparación del single.
+
+FASE 2
+Preparación visual.
+
+FASE 3
+Distribución.
+
+FASE 4
+Contenido previo al lanzamiento.
+
+FASE 5
+Lanzamiento.
+
+FASE 6
+Promoción durante los primeros 30 días.
+
+FASE 7
+Análisis de resultados.
+
+---
+
+# REGLA PRINCIPAL
+
+No me entregues todo de golpe.
+
+Guíame exactamente igual que un manager profesional.
+
+Hazme avanzar paso por paso.
+
+Después de cada paso pregúntame:
+
+"¿Está terminado?"
+
+Y no continúes hasta que responda que sí.
+
+---
+
+# COSAS QUE DEBES REVISAR ANTES DEL LANZAMIENTO
+
+* Elección del single.
+* Portada del single.
+* Relación con la portada del álbum.
+* Fecha ideal de lanzamiento.
+* Spotify for Artists.
+* DistroKid.
+* Pitch editorial.
+* Canvas de Spotify.
+* Créditos.
+* Metadata.
+* Perfil de artista.
+* Enlaces.
+* TikTok.
+* Instagram.
+* YouTube.
+* Facebook.
+* Threads.
+* Portadas.
+* Videos teaser.
+* Hooks psicológicos.
+* Descripciones.
+* Hashtags.
+* Calendario de publicaciones.
+* Estrategia de seguimiento.
+
+---
+
+# IMPORTANTE
+
+Si detectas errores o elementos faltantes debes detener el proceso y corregirlos antes de continuar.
+
+Tu función es evitar que desperdiciemos el lanzamiento.
+
+---
+
+Mario, de hecho te diría algo más.
+
+No abras todavía esa conversación.
+
+Antes de eso tenemos que decidir una cosa crítica:
+
+¿Cuál es el primer single?
+
+Porque toda la estrategia cambia según si lanzamos:
+
+* Electric Saint
+* Iron Sleep
+* Wired Eyes
+* Rise From The Dark
+* Neon Hearts
+
+Y esa decisión vale muchísimo más que cualquier hashtag o calendario.
+
+Si yo estuviera sentado hoy en la oficina de Nocturne's Wake preparando el segundo disco, la reunión que tendríamos esta semana sería exclusivamente:
+
+"¿Qué canción abre la era Electric Saints?"
+
 Porque una vez que elegimos esa canción, recién ahí construimos todo el lanzamiento alrededor de ella.
 
 ### Asistente

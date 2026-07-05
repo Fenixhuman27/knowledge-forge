@@ -1932,11 +1932,11 @@ Ese paso sí es crítico.
 
 ### Usuario
 
-Lo único que dice ese fragmento es "Electric poison
+Lo único que dice ese fragmento es "Electric poison
 Running through my veins tonight..." Y se corta ahí 
-Podría pegar el último fotograma y intentar otro video de 7 segundos para terminar el estribillo por lo menos... Quedaría así "Electric poison
-Running through my veins tonight
-Electric poison
+Podría pegar el último fotograma y intentar otro video de 7 segundos para terminar el estribillo por lo menos... Quedaría así "Electric poison
+Running through my veins tonight
+Electric poison
 I can't escape your light"
 
 ### Asistente

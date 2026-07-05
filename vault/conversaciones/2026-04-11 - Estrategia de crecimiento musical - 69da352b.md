@@ -2651,56 +2651,56 @@ sin romper nada de lo que ya construiste.
 
 ### Usuario
 
-antes de tocar nada, si hago estos cambios y voy al boton historia/info que me va a mostrar? que texto? porque antes ese boton llevaba a una seccion donde estaba este archivo y cuando preciono sobre los integrantes, que me muestra? porque deberia haber una "bio" explicando quienes son....ARQUITECTURA DE PERSONAJES
-Los cuatro integrantes de Nocturne's Wake no son solo estilos musicales. Son facetas de la psique humana, con identidades sonoras y emocionales precisas y distintas.
-
-DORIAN
-El Místico — La Sombra
-Género: Gothic Post-Punk · Darkwave · 80s Dark Wave
-Sonido: Bass melódico y profundo, guitarras con flanger, drums mecánicos, atmósfera oscura y espacial.
-Voz: Barítono profundo. Monótono, distante, hipnótico.
-
-Canciones de Dorian
-•	White Kiss — Post-Punk / Gothic / Darkwave. Historia de adicción y seducción tóxica.
-•	Electric Poison — Dark Groove Rock. Atracción como veneno eléctrico.
-
-CAL
-El Resiliente — El Corazón
-Género: Grunge · Alternative Rock · 90s Seattle Sound
-Sonido: Guitarra distorsionada con dinámica loud-quiet-loud, bass saturado, drums secos y agresivos.
-Voz: Barítono rasgado, imperfecto, emocionalmente crudo.
-
-Canciones de Cal
-•	Set Me on Fire — Grunge / Alt Rock. Amor como chispa vital.
-•	Hollow Echoes — Grunge Alienación y pérdida de identidad.
-•	Static in My Head — Grunge. Crisis de identidad y soledad.
-•	You Are Not Alone — Alternative Rock. Himno de resiliencia personal.
-•	Come Back Loud — Alternative Rock Anthem. Regreso explosivo.
-
-MARCUS
-La Fuerza — El Pilar
-Género: Heavy Metal · Groove Metal · Power Metal
-Sonido: Riff de guitarra palm-muted en cuerdas graves, bajo muy presente y saturado, drums secos y poderosos.
-Voz: Barítono masculino potente. Voz ronca y áspera.
-
-
-Canciones de Marcus
-•	Still here— Heavy Groove Metal. Himno de resiliencia.
-•	King of the Quiet — Heavy Groove Metal. Poder sin necesidad de ruido
-
-RÍAN
-El Conector — La Energía
-Género: Pop-Rock · Dance-Rock · Arena Rock
-Sonido: Bass groove funk, guitarras rítmicas muted, drums punchy, claps y bright accents.
-Voz: Tenor carismático, suave y expresivo. Presencia escénica alta.
-
-Canciones de Rían
-•	Burn With Me — Dance-Rock Pop Anthem. Seducción en la pista.
-•	Come Backstage — Dance-Rock Pop Anthem. Historia de fan en el show.
-•	Electric Skin — Modern Pop-Rock. Atracción física e instantánea.
-
-Canciones Grupales
-•	We Don't Break (Rían, Dorian, Cal, Marcus) — Dance-Rock Arena Anthem. El himno oficial de la banda.
+antes de tocar nada, si hago estos cambios y voy al boton historia/info que me va a mostrar? que texto? porque antes ese boton llevaba a una seccion donde estaba este archivo y cuando preciono sobre los integrantes, que me muestra? porque deberia haber una "bio" explicando quienes son....ARQUITECTURA DE PERSONAJES
+Los cuatro integrantes de Nocturne's Wake no son solo estilos musicales. Son facetas de la psique humana, con identidades sonoras y emocionales precisas y distintas.
+
+DORIAN
+El Místico — La Sombra
+Género: Gothic Post-Punk · Darkwave · 80s Dark Wave
+Sonido: Bass melódico y profundo, guitarras con flanger, drums mecánicos, atmósfera oscura y espacial.
+Voz: Barítono profundo. Monótono, distante, hipnótico.
+
+Canciones de Dorian
+•	White Kiss — Post-Punk / Gothic / Darkwave. Historia de adicción y seducción tóxica.
+•	Electric Poison — Dark Groove Rock. Atracción como veneno eléctrico.
+
+CAL
+El Resiliente — El Corazón
+Género: Grunge · Alternative Rock · 90s Seattle Sound
+Sonido: Guitarra distorsionada con dinámica loud-quiet-loud, bass saturado, drums secos y agresivos.
+Voz: Barítono rasgado, imperfecto, emocionalmente crudo.
+
+Canciones de Cal
+•	Set Me on Fire — Grunge / Alt Rock. Amor como chispa vital.
+•	Hollow Echoes — Grunge Alienación y pérdida de identidad.
+•	Static in My Head — Grunge. Crisis de identidad y soledad.
+•	You Are Not Alone — Alternative Rock. Himno de resiliencia personal.
+•	Come Back Loud — Alternative Rock Anthem. Regreso explosivo.
+
+MARCUS
+La Fuerza — El Pilar
+Género: Heavy Metal · Groove Metal · Power Metal
+Sonido: Riff de guitarra palm-muted en cuerdas graves, bajo muy presente y saturado, drums secos y poderosos.
+Voz: Barítono masculino potente. Voz ronca y áspera.
+
+
+Canciones de Marcus
+•	Still here— Heavy Groove Metal. Himno de resiliencia.
+•	King of the Quiet — Heavy Groove Metal. Poder sin necesidad de ruido
+
+RÍAN
+El Conector — La Energía
+Género: Pop-Rock · Dance-Rock · Arena Rock
+Sonido: Bass groove funk, guitarras rítmicas muted, drums punchy, claps y bright accents.
+Voz: Tenor carismático, suave y expresivo. Presencia escénica alta.
+
+Canciones de Rían
+•	Burn With Me — Dance-Rock Pop Anthem. Seducción en la pista.
+•	Come Backstage — Dance-Rock Pop Anthem. Historia de fan en el show.
+•	Electric Skin — Modern Pop-Rock. Atracción física e instantánea.
+
+Canciones Grupales
+•	We Don't Break (Rían, Dorian, Cal, Marcus) — Dance-Rock Arena Anthem. El himno oficial de la banda.
 •	Four Worlds / One Sound (Cal, Marcus, Dorian, Rían) — Epic Multi-Style Rock. Los 4 personajes se presentan en un bar.
 
 ### Usuario

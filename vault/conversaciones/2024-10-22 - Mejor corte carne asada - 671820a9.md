@@ -11,27 +11,27 @@ origen: ChatGPT
 
 Quiero comer carne asada al horno, necesito saber cuál es el mejor corte para que quede blanda y sabrosa. 
 Tengo estos cortes para elegir y quiero gastar lo menos posible. 
-Aguja con hueso kg $279
-Aguja sin hueso kg $339
-Asado kg $309
-Bola de Lomo kg $399
-Cadera kg $399
-Colita de cuadril kg $449
-Costilla con lomo kg $429
-Costilla Redonda kg $399
-Costilla sin lomo kg $399
-Cuadril kg $429
-Entrecot kg $469
-Falda kg $269
-Lomo kg $549
-Matambre kg $329
-Nalga kg $449
-Ossobuco kg $319
-Paleta con hueso kg $299
-Paleta sin hueso kg $359
-Peceto kg $429
-Picaña kg $439
-Pulpon kg $429
+Aguja con hueso kg $279
+Aguja sin hueso kg $339
+Asado kg $309
+Bola de Lomo kg $399
+Cadera kg $399
+Colita de cuadril kg $449
+Costilla con lomo kg $429
+Costilla Redonda kg $399
+Costilla sin lomo kg $399
+Cuadril kg $429
+Entrecot kg $469
+Falda kg $269
+Lomo kg $549
+Matambre kg $329
+Nalga kg $449
+Ossobuco kg $319
+Paleta con hueso kg $299
+Paleta sin hueso kg $359
+Peceto kg $429
+Picaña kg $439
+Pulpon kg $429
 Vacio kg $429
 
 ### Asistente

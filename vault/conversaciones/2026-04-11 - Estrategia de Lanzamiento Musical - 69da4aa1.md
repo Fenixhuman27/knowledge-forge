@@ -557,20 +557,20 @@ Esto tiene potencial real, pero hay que ejecutarlo sin frenar.
 
 ### Usuario
 
-1)canción emocional grunge fuerte "05-Come back loud" 
-2) canción más pegadiza 01-Burn with me 
-3) 08-Electric Poison esa tiene una atmosfera oscura, pero es muy hipnótica. el idioma de la music es 100% ingles. suena rock multi estilos, son rock pop, grunge, heavy moderno, dark industrial gótico todo épico. la banda muestra 4 rostros que representan los 4 estilos musicales. la estética de la banda se basa en la imagen de la portada del disco. fotos de la banda tengo pocas (nunca son suficientes) videos aun no tengo ninguno. el visualizar de canciones es el promocional que te pase. las letras ya están todas escritas y subidas junto con la música que subí a distrokid. mis prioridades son generar en redes y generar curiosidad, después que la música este en las plataformas (el álbum lo subí ayer a distrokid) necesito conseguir oyentes, millones de reproducciones. puedo dedicarle las horas necesarias por día, siempre intentando dividir el tiempo en un momento para la familia y otro para el proyecto. 
-
-
-Nocturne's Wake es un proyecto de simbiosis humano-digital. No es una banda de música generada por IA: es un proyecto donde la curaduría de autor dirige y la tecnología ejecuta. Como el sintetizador en los 80, la IA es el instrumento. La dirección emocional, la arquitectura lírica y la narrativa de personajes son 100% humanas.
-El proyecto se ubica en la intersección entre Entertainment Tech y Art-Rock. La competencia directa no es la banda local — son proyectos transmedia como Gorillaz o la estética de Cyberpunk 2077.
-El arte no es exclusividad de la carne, ni la perfección es exclusividad del código. Nocturne's Wake es la colisión de ambos. No somos un algoritmo intentando sentir; somos la emoción humana amplificada por la máquina. Es la simbiosis entre el alma herida y el cálculo perfecto
-Modelo de Negocio
-•	Segmentación cuádruple: 4 artistas, 4 géneros, 4 audiencias bajo una misma marca.
-•	Escalabilidad total: música → videojuegos → series → arte digital.
-•	Distribución vía DistroKid: Spotify, YouTube, Apple Music y plataformas afines.
-•	Monetización inmediata: streaming + licencias.
-Mantra de Marca
+1)canción emocional grunge fuerte "05-Come back loud" 
+2) canción más pegadiza 01-Burn with me 
+3) 08-Electric Poison esa tiene una atmosfera oscura, pero es muy hipnótica. el idioma de la music es 100% ingles. suena rock multi estilos, son rock pop, grunge, heavy moderno, dark industrial gótico todo épico. la banda muestra 4 rostros que representan los 4 estilos musicales. la estética de la banda se basa en la imagen de la portada del disco. fotos de la banda tengo pocas (nunca son suficientes) videos aun no tengo ninguno. el visualizar de canciones es el promocional que te pase. las letras ya están todas escritas y subidas junto con la música que subí a distrokid. mis prioridades son generar en redes y generar curiosidad, después que la música este en las plataformas (el álbum lo subí ayer a distrokid) necesito conseguir oyentes, millones de reproducciones. puedo dedicarle las horas necesarias por día, siempre intentando dividir el tiempo en un momento para la familia y otro para el proyecto. 
+
+
+Nocturne's Wake es un proyecto de simbiosis humano-digital. No es una banda de música generada por IA: es un proyecto donde la curaduría de autor dirige y la tecnología ejecuta. Como el sintetizador en los 80, la IA es el instrumento. La dirección emocional, la arquitectura lírica y la narrativa de personajes son 100% humanas.
+El proyecto se ubica en la intersección entre Entertainment Tech y Art-Rock. La competencia directa no es la banda local — son proyectos transmedia como Gorillaz o la estética de Cyberpunk 2077.
+El arte no es exclusividad de la carne, ni la perfección es exclusividad del código. Nocturne's Wake es la colisión de ambos. No somos un algoritmo intentando sentir; somos la emoción humana amplificada por la máquina. Es la simbiosis entre el alma herida y el cálculo perfecto
+Modelo de Negocio
+•	Segmentación cuádruple: 4 artistas, 4 géneros, 4 audiencias bajo una misma marca.
+•	Escalabilidad total: música → videojuegos → series → arte digital.
+•	Distribución vía DistroKid: Spotify, YouTube, Apple Music y plataformas afines.
+•	Monetización inmediata: streaming + licencias.
+Mantra de Marca
 "WE DON'T BREAK"
 
 ### Asistente

@@ -732,58 +732,58 @@ Cuando quieras, mandá la Parte 1 👍
 ### Usuario
 
 quiero que lo analices para mejorar / simplificar / volver ejecutable. Quiero que actúes como un experto honesto en el desarrollo del proyecto. No me des respuestas genéricas ni marketing. 
-Primero, analizá este proyecto mío: soy el creador de una banda virtual que se llaman Nocturne's Wake, tenemos un disco en todas las plataformas y estamos buscando el crecimiento rápido y la monetización para crecer más aún.
-En base a eso, respondé con total sinceridad:
-¿En qué tareas específicas podés ayudarme REALMENTE a mejorar resultados? Dame ejemplos concretos aplicados a mi caso.
-¿Qué cosas parecen que podrías hacer pero en realidad NO hacés bien o no conviene usarte?
-¿Qué errores comete la gente al usar esta herramienta en proyectos como el mío?
-Límites y funcionamiento:
-¿Cuál es el límite real del plan gratuito? (mensajes, créditos, calidad, velocidad, restricciones ocultas)
-¿Qué cosas se bloquean o bajan de calidad en el modo gratis?
-¿En qué momento deja de ser útil sin pagar?
-Estrategia:
-Si tuviera que sacarle el máximo provecho SIN pagar, ¿cómo debería usarte paso a paso?
-¿Qué tipo de prompts funcionan mejor con vos y cuáles evitar?
-Comparación honesta:
-¿Qué otras herramientas hacen mejor lo que vos hacés?
-¿En qué casos me conviene NO usarte?
-Quiero respuestas claras, sin adornos, como si tu objetivo fuera ahorrarme tiempo y dinero.
-Si evitás responder algo o sos ambiguo, asumo que es una limitación importante.
-
-
+Primero, analizá este proyecto mío: soy el creador de una banda virtual que se llaman Nocturne's Wake, tenemos un disco en todas las plataformas y estamos buscando el crecimiento rápido y la monetización para crecer más aún.
+En base a eso, respondé con total sinceridad:
+¿En qué tareas específicas podés ayudarme REALMENTE a mejorar resultados? Dame ejemplos concretos aplicados a mi caso.
+¿Qué cosas parecen que podrías hacer pero en realidad NO hacés bien o no conviene usarte?
+¿Qué errores comete la gente al usar esta herramienta en proyectos como el mío?
+Límites y funcionamiento:
+¿Cuál es el límite real del plan gratuito? (mensajes, créditos, calidad, velocidad, restricciones ocultas)
+¿Qué cosas se bloquean o bajan de calidad en el modo gratis?
+¿En qué momento deja de ser útil sin pagar?
+Estrategia:
+Si tuviera que sacarle el máximo provecho SIN pagar, ¿cómo debería usarte paso a paso?
+¿Qué tipo de prompts funcionan mejor con vos y cuáles evitar?
+Comparación honesta:
+¿Qué otras herramientas hacen mejor lo que vos hacés?
+¿En qué casos me conviene NO usarte?
+Quiero respuestas claras, sin adornos, como si tu objetivo fuera ahorrarme tiempo y dinero.
+Si evitás responder algo o sos ambiguo, asumo que es una limitación importante.
+
+
 despues de ajecutar la tarea quiero que:                                                                                                                               Aplicalo YA a mi proyecto: [Proyecto: Nocturne’s Wake 
-Es una banda virtual con estética darkwave/synthwave, con fuerte carga emocional, introspectiva y cinematográfica. La identidad gira en torno a lo psicológico, lo emocional profundo y lo visual oscuro pero elegante.
-Objetivo: Construir una audiencia real y comprometida que conecte con la música y el concepto, no solo generar reproducciones vacías. A largo plazo, monetizar mediante comunidad (membresías, contenido exclusivo, etc.).
-Plataformas actuales: YouTube (vacío o en desarrollo), TikTok/Instagram (en proceso de creación de contenido), música distribuida en plataformas como Spotify.
-Tipo de contenido:
-Videos cortos tipo reels con carga emocional fuerte
-Estética visual cuidada (tipo banda “real”, no caricatura IA)
-Frases/preguntas profundas que conecten con el espectador
-Lore progresivo del universo de la banda
-Fortalezas:
-Concepto artístico claro
-Capacidad de generar imágenes y música con IA
-Enfoque emocional fuerte (no superficial)
-Debilidades:
-Audiencia actual muy baja o inexistente
-Falta de validación real del contenido
-No hay funnel ni sistema de conversión armado todavía
-Público objetivo: Personas que conectan con música emocional, estética oscura, introspección, probablemente consumidores de darkwave, rock alternativo, synthwave, cultura digital/artística.
-Necesito: Crecimiento real, estrategia clara y contenido que convierta en fans, no solo vistas.]
-Dame un funnel completo REALISTA con números:
-¿Cuánta gente necesito arriba del funnel?
-¿Qué % esperás que convierta en cada etapa?
-¿Cuántos fans reales podría conseguir en 30 días?
-Bajalo a ejecución concreta:
-Dame 5 piezas de contenido listas para publicar (no ideas, contenido real)
-3 hooks virales específicos para mi estética
-1 bio optimizada que realmente convierta
-Ahora lo importante:
-Decime qué parte de todo esto probablemente NO funcione en mi caso y por qué
-Qué estoy subestimando o haciendo mal aunque no me dé cuenta
-Límites reales:
-¿Qué parte de esta estrategia no podés hacer vos y voy a tener que resolver sí o sí yo?
-Si dependo solo de vos, ¿en qué voy a fallar?
+Es una banda virtual con estética darkwave/synthwave, con fuerte carga emocional, introspectiva y cinematográfica. La identidad gira en torno a lo psicológico, lo emocional profundo y lo visual oscuro pero elegante.
+Objetivo: Construir una audiencia real y comprometida que conecte con la música y el concepto, no solo generar reproducciones vacías. A largo plazo, monetizar mediante comunidad (membresías, contenido exclusivo, etc.).
+Plataformas actuales: YouTube (vacío o en desarrollo), TikTok/Instagram (en proceso de creación de contenido), música distribuida en plataformas como Spotify.
+Tipo de contenido:
+Videos cortos tipo reels con carga emocional fuerte
+Estética visual cuidada (tipo banda “real”, no caricatura IA)
+Frases/preguntas profundas que conecten con el espectador
+Lore progresivo del universo de la banda
+Fortalezas:
+Concepto artístico claro
+Capacidad de generar imágenes y música con IA
+Enfoque emocional fuerte (no superficial)
+Debilidades:
+Audiencia actual muy baja o inexistente
+Falta de validación real del contenido
+No hay funnel ni sistema de conversión armado todavía
+Público objetivo: Personas que conectan con música emocional, estética oscura, introspección, probablemente consumidores de darkwave, rock alternativo, synthwave, cultura digital/artística.
+Necesito: Crecimiento real, estrategia clara y contenido que convierta en fans, no solo vistas.]
+Dame un funnel completo REALISTA con números:
+¿Cuánta gente necesito arriba del funnel?
+¿Qué % esperás que convierta en cada etapa?
+¿Cuántos fans reales podría conseguir en 30 días?
+Bajalo a ejecución concreta:
+Dame 5 piezas de contenido listas para publicar (no ideas, contenido real)
+3 hooks virales específicos para mi estética
+1 bio optimizada que realmente convierta
+Ahora lo importante:
+Decime qué parte de todo esto probablemente NO funcione en mi caso y por qué
+Qué estoy subestimando o haciendo mal aunque no me dé cuenta
+Límites reales:
+¿Qué parte de esta estrategia no podés hacer vos y voy a tener que resolver sí o sí yo?
+Si dependo solo de vos, ¿en qué voy a fallar?
 No quiero teoría. Quiero ver si realmente podés generar resultados conmigo. por ultimo dame todo lo generado para llevar a Markdown
 
 ### Asistente
@@ -1185,39 +1185,39 @@ Ahí es donde empieza a moverse en serio.
 
 ### Usuario
 
-bueno aca necesito un curso intensivo y paciencia paso a paso por que me vas a tener que explicar como si fuera un niño pequeño jajaja ya tengo markdown creado y ahora tengo este jason para mantener identidad de los personajes de la banda... a ver que te parece: {
-  "banda": "Nocturne's Wake",
-  "integrantes": {
-    "Rian": {
-      "posicion": "extrema izquierda",
-      "rasgos_faciales": "Joven, rostro sin barba y mandíbula definida, cabello oscuro corto peinado ligeramente hacia arriba, sonrisa cálida, expresión carismática.",
-      "estructura_fisica": "Complexión atlética, estatura media, postura relajada.",
-      "estilo_vestimenta": "Chaqueta de cuero negra estilo motociclista (biker), camisa oscura desabrochada con estampado sutil (floral o paisley) que deja ver un collar fino, jeans oscuros ajustados, botas oscuras.",
-      "plantilla_prompt_individual": "A young handsome man named Rian, clean-shaven, short dark hair styled up, warm smile. Wearing a black biker leather jacket over an unbuttoned dark patterned shirt, dark slim jeans, dark boots. [ACCION], [ENTORNO], [ILUMINACION]."
-    },
-    "Cal": {
-      "posicion": "centro izquierda",
-      "rasgos_faciales": "Cabello castaño/rubio oscuro, corto y desordenado. Barba de tres días (stubble). Expresión casual, ligeramente seria pero accesible.",
-      "estructura_fisica": "Estatura media-alta, postura casual, suele tener las manos en los bolsillos.",
-      "estilo_vestimenta": "Camisa de franela a cuadros roja y negra usada abierta, camiseta negra debajo con un logo de media luna, jeans azules desgastados y rotos en las rodillas, botas de trabajo oscuras.",
-      "plantilla_prompt_individual": "A man named Cal, short messy brown hair, light stubble beard, casual expression. Wearing an open red and black plaid flannel shirt over a black t-shirt, distressed blue jeans with ripped knees, dark work boots. [ACCION], [ENTORNO], [ILUMINACION]."
-    },
-    "Marcus": {
-      "posicion": "centro derecha",
-      "rasgos_faciales": "Barba oscura, tupida y bien arreglada. Cabello oscuro corto y peinado hacia atrás o de lado. Mirada intensa y seria.",
-      "estructura_fisica": "Hombros anchos, complexión sólida y robusta, postura firme e imponente.",
-      "estilo_vestimenta": "Chaqueta de cuero negra clásica, camisa negra abotonada, jeans negros ajustados, cinturón negro visible, botas negras.",
-      "plantilla_prompt_individual": "A rugged man named Marcus with a full thick dark beard, short neat dark hair, serious intense expression. Wearing a classic black leather jacket, black button-up shirt, black jeans, black boots. [ACCION], [ENTORNO], [ILUMINACION]."
-    },
-    "Dorian": {
-      "posicion": "extrema derecha",
-      "rasgos_faciales": "Cabello negro muy oscuro, lacio y largo hasta los hombros. Tez pálida, pómulos marcados, sin barba. Mirada penetrante y gótica.",
-      "estructura_fisica": "Complexión delgada, alto, postura rígida y elegante.",
-      "estilo_vestimenta": "Abrigo largo negro tipo gabardina (trench coat), camisa negra abotonada con detalles oscuros o volantes sutiles, correa cruzada en el pecho, jeans negros, botas negras.",
-      "plantilla_prompt_individual": "A tall slim pale man named Dorian, long straight black hair past shoulders, clean-shaven, pronounced cheekbones, intense gothic stare. Wearing a long black trench coat over a black shirt, a black chest strap, black jeans, black boots. [ACCION], [ENTORNO], [ILUMINACION]."
-    }
-  },
-  "plantilla_prompt_grupal": "Cinematic photography of a rock band consisting of four members standing together. From left to right: (1) Rian: [INSERTAR_PROMPT_RIAN]. (2) Cal: [INSERTAR_PROMPT_CAL]. (3) Marcus: [INSERTAR_PROMPT_MARCUS]. (4) Dorian: [INSERTAR_PROMPT_DORIAN]. The entire band is [ACCION_GRUPAL], setting is [ENTORNO], with [ILUMINACION] lighting, highly detailed, 8k, photorealistic."
+bueno aca necesito un curso intensivo y paciencia paso a paso por que me vas a tener que explicar como si fuera un niño pequeño jajaja ya tengo markdown creado y ahora tengo este jason para mantener identidad de los personajes de la banda... a ver que te parece: {
+  "banda": "Nocturne's Wake",
+  "integrantes": {
+    "Rian": {
+      "posicion": "extrema izquierda",
+      "rasgos_faciales": "Joven, rostro sin barba y mandíbula definida, cabello oscuro corto peinado ligeramente hacia arriba, sonrisa cálida, expresión carismática.",
+      "estructura_fisica": "Complexión atlética, estatura media, postura relajada.",
+      "estilo_vestimenta": "Chaqueta de cuero negra estilo motociclista (biker), camisa oscura desabrochada con estampado sutil (floral o paisley) que deja ver un collar fino, jeans oscuros ajustados, botas oscuras.",
+      "plantilla_prompt_individual": "A young handsome man named Rian, clean-shaven, short dark hair styled up, warm smile. Wearing a black biker leather jacket over an unbuttoned dark patterned shirt, dark slim jeans, dark boots. [ACCION], [ENTORNO], [ILUMINACION]."
+    },
+    "Cal": {
+      "posicion": "centro izquierda",
+      "rasgos_faciales": "Cabello castaño/rubio oscuro, corto y desordenado. Barba de tres días (stubble). Expresión casual, ligeramente seria pero accesible.",
+      "estructura_fisica": "Estatura media-alta, postura casual, suele tener las manos en los bolsillos.",
+      "estilo_vestimenta": "Camisa de franela a cuadros roja y negra usada abierta, camiseta negra debajo con un logo de media luna, jeans azules desgastados y rotos en las rodillas, botas de trabajo oscuras.",
+      "plantilla_prompt_individual": "A man named Cal, short messy brown hair, light stubble beard, casual expression. Wearing an open red and black plaid flannel shirt over a black t-shirt, distressed blue jeans with ripped knees, dark work boots. [ACCION], [ENTORNO], [ILUMINACION]."
+    },
+    "Marcus": {
+      "posicion": "centro derecha",
+      "rasgos_faciales": "Barba oscura, tupida y bien arreglada. Cabello oscuro corto y peinado hacia atrás o de lado. Mirada intensa y seria.",
+      "estructura_fisica": "Hombros anchos, complexión sólida y robusta, postura firme e imponente.",
+      "estilo_vestimenta": "Chaqueta de cuero negra clásica, camisa negra abotonada, jeans negros ajustados, cinturón negro visible, botas negras.",
+      "plantilla_prompt_individual": "A rugged man named Marcus with a full thick dark beard, short neat dark hair, serious intense expression. Wearing a classic black leather jacket, black button-up shirt, black jeans, black boots. [ACCION], [ENTORNO], [ILUMINACION]."
+    },
+    "Dorian": {
+      "posicion": "extrema derecha",
+      "rasgos_faciales": "Cabello negro muy oscuro, lacio y largo hasta los hombros. Tez pálida, pómulos marcados, sin barba. Mirada penetrante y gótica.",
+      "estructura_fisica": "Complexión delgada, alto, postura rígida y elegante.",
+      "estilo_vestimenta": "Abrigo largo negro tipo gabardina (trench coat), camisa negra abotonada con detalles oscuros o volantes sutiles, correa cruzada en el pecho, jeans negros, botas negras.",
+      "plantilla_prompt_individual": "A tall slim pale man named Dorian, long straight black hair past shoulders, clean-shaven, pronounced cheekbones, intense gothic stare. Wearing a long black trench coat over a black shirt, a black chest strap, black jeans, black boots. [ACCION], [ENTORNO], [ILUMINACION]."
+    }
+  },
+  "plantilla_prompt_grupal": "Cinematic photography of a rock band consisting of four members standing together. From left to right: (1) Rian: [INSERTAR_PROMPT_RIAN]. (2) Cal: [INSERTAR_PROMPT_CAL]. (3) Marcus: [INSERTAR_PROMPT_MARCUS]. (4) Dorian: [INSERTAR_PROMPT_DORIAN]. The entire band is [ACCION_GRUPAL], setting is [ENTORNO], with [ILUMINACION] lighting, highly detailed, 8k, photorealistic."
 }
 
 ### Asistente

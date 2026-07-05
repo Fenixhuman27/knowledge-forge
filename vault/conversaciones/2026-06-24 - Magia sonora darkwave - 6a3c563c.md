@@ -304,43 +304,43 @@ Mi intuición es que esta canción puede convertirse en una hermana perfecta de 
 
 ### Usuario
 
-ESTA ES UNA LETRA A LA QUE SUNO NUNCA LOGRO DARLE ESA MAGIA QUE BUSCAMOS: Voices crawl inside my head
-Naming ghosts I thought were dead
-Crooked roads beneath my feet
-Broken vows I still repeat
-
-If the silence calls my name
-Who am I to shift the blame?
-
-I keep falling under the same skin
-No matter where I've been
-When the past comes back to bite
-Who will make it right? 
-
-Built these walls to keep me numb
-Now they whisper what I've become
-Every crack begins to show
-All the things I'll never know
-
-If the fear begins to grow
-Do I stay or let it go?
-
-I keep falling under the same skin
-No matter where I've been
-When the past comes back to bite
-Who will make it right?
-
-No redemption left to claim
-No one else to take the blame
-Just a man who couldn't see
-What he was and had to be
-
-I keep falling under the same skin
-Shadows wearing thin
-If the fire comes again
-I will stay with them
-
-Morning light reveals the scars
+ESTA ES UNA LETRA A LA QUE SUNO NUNCA LOGRO DARLE ESA MAGIA QUE BUSCAMOS: Voices crawl inside my head
+Naming ghosts I thought were dead
+Crooked roads beneath my feet
+Broken vows I still repeat
+
+If the silence calls my name
+Who am I to shift the blame?
+
+I keep falling under the same skin
+No matter where I've been
+When the past comes back to bite
+Who will make it right? 
+
+Built these walls to keep me numb
+Now they whisper what I've become
+Every crack begins to show
+All the things I'll never know
+
+If the fear begins to grow
+Do I stay or let it go?
+
+I keep falling under the same skin
+No matter where I've been
+When the past comes back to bite
+Who will make it right?
+
+No redemption left to claim
+No one else to take the blame
+Just a man who couldn't see
+What he was and had to be
+
+I keep falling under the same skin
+Shadows wearing thin
+If the fire comes again
+I will stay with them
+
+Morning light reveals the scars
 They never fade
 
 ### Usuario
@@ -2028,108 +2028,108 @@ Eso conecta emocionalmente con "Mr. Brightside", "Take Me Out", "Two Princes" y 
 
 ### Usuario
 
-a ver que te parece (hay que hacer la traduccion correctamente al ingles para no perder el sentido y la coherencia de la letra) [Estilo: Himno pop rock enérgico, 152 BPM, tonalidad mayor. Bajo melódico potente, perfectamente sincronizado con un bombo contundente. Guitarras eléctricas brillantes y rítmicas, centradas en el groove. Voz masculina carismática con urgencia juvenil. Fuerte sonido de banda en vivo, energía estimulante, ambiente de viaje por carretera. Coros superpuestos. Estribillos pegadizos, crescendos dinámicos, energía de himno de finales de los 90 y principios de los 2000]
-
-[Introducción: Bajo melódico potente y bombo contundente solamente]
-[Entran guitarras eléctricas brillantes y rítmicas]
-[Estilo vocal: Rian - Carismático, enérgico, interpretación staccato]
-
-[Estrofa 1]
-Luces que se filtra por el tablero
-Estática en el dial, pisando el acelerador
-La ciudad se desvanece en el cristal
-Nada nos va a atrapar ahora
-
-[Pre-estribillo: Bajo y batería que aumentan la tensión]
-Sin mapa esta noche
-Sin línea de meta
-Rompiendo lazos
-¡Solo para sentirnos vivos!
-
-[Estribillo: Explosivo, energía de toda la banda, muro de sonido masivo]
-[Voz principal: Rian]
-¡Ventanas abajo!
-
-Que el mundo entero se desvanezca
-¡Ventanas abajo!
-
-Estamos justo donde debemos estar
-¡Ahora mismo!
-
-Es lo único que buscamos
-¡Ahora mismo!
-
-Dejemos las sombras en la puerta abierta
-¡Ventanas abajo!
-
-Y nunca vamos a bajar el ritmo
-
-[Post-Estribillo Instrumental: Riff de guitarra pegadizo, 152 BPM]
-
-[Estrofa 2: Bajo y batería concentrados, ritmo ajustado]
-Las líneas amarillas se desvanecen
-Como un río que corre en la oscuridad
-Café de gasolinera, y malas decisiones
-Esperando el amanecer
-
-[Pre-Estribillo: Tensión creciente, redoble de caja]
-Sin mapa esta noche
-Sin meta
-Rompiendo lazos
-¡Solo para sentirnos vivos!
-
-[Estribillo: Explosivo, energía de toda la banda]
-¡Ventanas abajo!
-Que el mundo entero se desvanezca
-¡Ventanas abajo!
-
-Estamos justo donde debemos estar
-¡Ahora mismo!
-
-Es lo único que buscamos
-¡Ahora mismo!
-
-Dejemos las sombras en la puerta abierta
-¡Ventanas abajo!
-
-Y nunca vamos a bajar el ritmo
-
-[Puente: Ritmo a medio tiempo, las guitarras se apagan, el bajo y los timbales aumentan]
-[Estilo vocal: Emocional, intensidad creciente]
-Algún día seremos mayores
-Algún día miraremos atrás
-Pero esta noche es intocable
-Desvaneciendo la oscuridad
-
-[Pre-estribillo: Las guitarras se intensifican, redoble rápido de caja, energía creciente]
-[Voz: Grito]
-¡Esta noche es nuestra!
-
-[Solo de guitarra: Brillante, melódico, mucha energía]
-
-[Estribillo final: Máxima potencia, platillos retumbando]
-[Voz principal: Rian / Coros: Cal, Marcus, Dorian armonizando con fuerza]
-¡Ventanas abajo!
-Que el mundo entero se desvanezca
-¡Ventanas abajo!
-
-Estamos justo donde debemos estar
-¡Ahora mismo!
-
-Es lo único que buscamos
-¡Ahora mismo!
-
-Dejemos las sombras en la puerta abierta
-¡Ventanas abajo!
-
-Y nunca vamos a bajar el ritmo
-
-[Outro: Guitarras resonando, bombo potente]
-[Voces grupales: Cal, Marcus, Dorian]
-Ventanas abajo... (Oh-oh-oh)
-Ventanas abajo...
-Nunca vamos a bajar el ritmo...
-
+a ver que te parece (hay que hacer la traduccion correctamente al ingles para no perder el sentido y la coherencia de la letra) [Estilo: Himno pop rock enérgico, 152 BPM, tonalidad mayor. Bajo melódico potente, perfectamente sincronizado con un bombo contundente. Guitarras eléctricas brillantes y rítmicas, centradas en el groove. Voz masculina carismática con urgencia juvenil. Fuerte sonido de banda en vivo, energía estimulante, ambiente de viaje por carretera. Coros superpuestos. Estribillos pegadizos, crescendos dinámicos, energía de himno de finales de los 90 y principios de los 2000]
+
+[Introducción: Bajo melódico potente y bombo contundente solamente]
+[Entran guitarras eléctricas brillantes y rítmicas]
+[Estilo vocal: Rian - Carismático, enérgico, interpretación staccato]
+
+[Estrofa 1]
+Luces que se filtra por el tablero
+Estática en el dial, pisando el acelerador
+La ciudad se desvanece en el cristal
+Nada nos va a atrapar ahora
+
+[Pre-estribillo: Bajo y batería que aumentan la tensión]
+Sin mapa esta noche
+Sin línea de meta
+Rompiendo lazos
+¡Solo para sentirnos vivos!
+
+[Estribillo: Explosivo, energía de toda la banda, muro de sonido masivo]
+[Voz principal: Rian]
+¡Ventanas abajo!
+
+Que el mundo entero se desvanezca
+¡Ventanas abajo!
+
+Estamos justo donde debemos estar
+¡Ahora mismo!
+
+Es lo único que buscamos
+¡Ahora mismo!
+
+Dejemos las sombras en la puerta abierta
+¡Ventanas abajo!
+
+Y nunca vamos a bajar el ritmo
+
+[Post-Estribillo Instrumental: Riff de guitarra pegadizo, 152 BPM]
+
+[Estrofa 2: Bajo y batería concentrados, ritmo ajustado]
+Las líneas amarillas se desvanecen
+Como un río que corre en la oscuridad
+Café de gasolinera, y malas decisiones
+Esperando el amanecer
+
+[Pre-Estribillo: Tensión creciente, redoble de caja]
+Sin mapa esta noche
+Sin meta
+Rompiendo lazos
+¡Solo para sentirnos vivos!
+
+[Estribillo: Explosivo, energía de toda la banda]
+¡Ventanas abajo!
+Que el mundo entero se desvanezca
+¡Ventanas abajo!
+
+Estamos justo donde debemos estar
+¡Ahora mismo!
+
+Es lo único que buscamos
+¡Ahora mismo!
+
+Dejemos las sombras en la puerta abierta
+¡Ventanas abajo!
+
+Y nunca vamos a bajar el ritmo
+
+[Puente: Ritmo a medio tiempo, las guitarras se apagan, el bajo y los timbales aumentan]
+[Estilo vocal: Emocional, intensidad creciente]
+Algún día seremos mayores
+Algún día miraremos atrás
+Pero esta noche es intocable
+Desvaneciendo la oscuridad
+
+[Pre-estribillo: Las guitarras se intensifican, redoble rápido de caja, energía creciente]
+[Voz: Grito]
+¡Esta noche es nuestra!
+
+[Solo de guitarra: Brillante, melódico, mucha energía]
+
+[Estribillo final: Máxima potencia, platillos retumbando]
+[Voz principal: Rian / Coros: Cal, Marcus, Dorian armonizando con fuerza]
+¡Ventanas abajo!
+Que el mundo entero se desvanezca
+¡Ventanas abajo!
+
+Estamos justo donde debemos estar
+¡Ahora mismo!
+
+Es lo único que buscamos
+¡Ahora mismo!
+
+Dejemos las sombras en la puerta abierta
+¡Ventanas abajo!
+
+Y nunca vamos a bajar el ritmo
+
+[Outro: Guitarras resonando, bombo potente]
+[Voces grupales: Cal, Marcus, Dorian]
+Ventanas abajo... (Oh-oh-oh)
+Ventanas abajo...
+Nunca vamos a bajar el ritmo...
+
 [Final: Caja y platillos contundentes]
 
 ### Usuario

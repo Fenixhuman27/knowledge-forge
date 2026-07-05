@@ -122,54 +122,54 @@ Si me pasas la letra de *Come Back Loud*, puedo hacerte:
 ### Usuario
 
 Está es la letra completa:
-Night air under broken lights
-Static humming in my chest
-You say nothing I can feel it
-Something heavy in the air
-Every word you never told me
-Pulling deeper somewhere
-
-I was trying not to look at you
-Trying not to fall again
-But the silence in your breathing
-Pulls me closer than it should
-
-I can feel the moment coming
-Like a storm inside my head
-
-It's come back loud!
-Breaking through the silence
-You come back loud!
-Running through my veins
-Every time I try to leave it
-You pull me down again
-You come back loud!
-And I feel it again!
-
-Same room different warning
-Same fire in your eyes
-Every step we take together
-Feels like crossing lines
-I can hear the riff inside me
-Like a pulse I can't escape
-Every breath is getting heavier
-Every move a new mistake
-
-Maybe I should walk away now
-Maybe I should let it die
-But the sound inside my heartbeat
-Says I'm already
-
-Inside!
-
-You come back loud!
-Breaking through the silence
-You come back loud!
-Running through my veins
-Every time I try to leave it
-You pull me down again
-You come back loud!
-And I feel it again!
+Night air under broken lights
+Static humming in my chest
+You say nothing I can feel it
+Something heavy in the air
+Every word you never told me
+Pulling deeper somewhere
+
+I was trying not to look at you
+Trying not to fall again
+But the silence in your breathing
+Pulls me closer than it should
+
+I can feel the moment coming
+Like a storm inside my head
+
+It's come back loud!
+Breaking through the silence
+You come back loud!
+Running through my veins
+Every time I try to leave it
+You pull me down again
+You come back loud!
+And I feel it again!
+
+Same room different warning
+Same fire in your eyes
+Every step we take together
+Feels like crossing lines
+I can hear the riff inside me
+Like a pulse I can't escape
+Every breath is getting heavier
+Every move a new mistake
+
+Maybe I should walk away now
+Maybe I should let it die
+But the sound inside my heartbeat
+Says I'm already
+
+Inside!
+
+You come back loud!
+Breaking through the silence
+You come back loud!
+Running through my veins
+Every time I try to leave it
+You pull me down again
+You come back loud!
+And I feel it again!
 Loud loud.
 Ahora necesito una o varias  imagenes en 9:16 que cuenten eso manteniendo todo lo que ya me dijiste para mantener la consistencia visual. La referencia es la imagen adjunta y la remera con el logo debe estar siempre
 
@@ -270,48 +270,48 @@ Imagino que vas a rehacer la imagen para poder usarla como gancho visual.
 
 Hicimos un vídeo en meta IA excelente (aunque le quitamos la sangre del rostro a Cal, que necesidad había de eso? 😅) 
 Ahora utilizando la misma imagen de referencia (la vuelvo a adjuntar) y está muy nueva letra de otra canción (every Night again) crea (utilizando el mismo criterio ) una escena que describa está otra letra: 
-Velvet shadows on the floor
-Candlelight behind your eyes
-Every time you close that door
-I forget what's wrong or right
-
-Leather skin and broken halos
-Whiskey breathing on your neck
-You said nothing but I knew it
-This was something to regret
-
-Fingernails across my back
-Like a promise made of fire
-Every touch just pulling deeper
-Into something like desire
-
-I told myself this time I'd walk away
-
-You are the poison I come back to
-Every night again
-Every scar you leave on my body
-Pulls me in
-
-You are the poison I come back to
-And I know it's true
-
-Every time I try to leave you
-I fall into you
-
-Six hours lost inside the darkness
-
-Every warning slowly breaking
-Every reason almost gone
-Your voice moving through the shadows
-Like a secret on my skin
-Every time I think it's over
-We begin again
-
-I know there's sins in fire
-I know this ends in flames
-I do all road again in night air 
-I can't i lost
-
+Velvet shadows on the floor
+Candlelight behind your eyes
+Every time you close that door
+I forget what's wrong or right
+
+Leather skin and broken halos
+Whiskey breathing on your neck
+You said nothing but I knew it
+This was something to regret
+
+Fingernails across my back
+Like a promise made of fire
+Every touch just pulling deeper
+Into something like desire
+
+I told myself this time I'd walk away
+
+You are the poison I come back to
+Every night again
+Every scar you leave on my body
+Pulls me in
+
+You are the poison I come back to
+And I know it's true
+
+Every time I try to leave you
+I fall into you
+
+Six hours lost inside the darkness
+
+Every warning slowly breaking
+Every reason almost gone
+Your voice moving through the shadows
+Like a secret on my skin
+Every time I think it's over
+We begin again
+
+I know there's sins in fire
+I know this ends in flames
+I do all road again in night air 
+I can't i lost
+
 I fall into you
 
 En esta escena debe haber deseo, pasión, pero no explícita, más bien sugerente! La escena es de un hombre atrapado por el deseo de una mujer que cuando lo tiene en sus brazos el no puede escapar... En formato 9:16 que meta IA pueda generar otro video en loop
