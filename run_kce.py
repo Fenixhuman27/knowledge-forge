@@ -1,4 +1,4 @@
-"""
+﻿"""
 Ejecutor del Knowledge Cognition Engine (KCE).
 
 Recorre todas las conversaciones de todos los archivos de origen,
@@ -11,7 +11,7 @@ import json
 from src.parser.chatgpt_parser import cargar_conversaciones
 from src.kce.normalizers import normalizar_chatgpt
 from src.kce.pipeline import KCEPipeline
-from src.kce.plugins.decision_detector import DecisionDetector
+from src.kce.plugins.decision_detector_hibrido import DecisionDetectorHibrido
 from src.kce.plugins.task_detector import TaskDetector
 from src.kce.plugins.contradiction_detector import ContradictionDetector
 
@@ -29,7 +29,7 @@ def buscar_archivos_conversaciones():
 
 def construir_pipeline():
     pipeline = KCEPipeline()
-    pipeline.registrar_plugin(DecisionDetector())
+    pipeline.registrar_plugin(DecisionDetectorHibrido())
     pipeline.registrar_plugin(TaskDetector())
     pipeline.registrar_plugin(ContradictionDetector())
     return pipeline
@@ -64,6 +64,9 @@ def ejecutar():
                         "plugin": r.plugin,
                         "hallazgos": r.hallazgos,
                     })
+
+            if conversaciones_procesadas % 25 == 0:
+                print(f"Progreso: {conversaciones_procesadas}/595 conversaciones procesadas...")
 
     os.makedirs(CARPETA_SALIDA, exist_ok=True)
     ruta_salida = os.path.join(CARPETA_SALIDA, "kce_resultados.json")

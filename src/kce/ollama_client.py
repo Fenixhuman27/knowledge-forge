@@ -1,4 +1,4 @@
-"""
+﻿"""
 Knowledge Cognition Engine (KCE)
 Cliente de Ollama (IA local, gratuita).
 
@@ -22,7 +22,7 @@ def preguntar_a_ollama(prompt: str) -> str:
             "prompt": prompt,
             "stream": False,
         },
-        timeout=120,
+        timeout=300,
     )
     respuesta.raise_for_status()
     return respuesta.json()["response"].strip()
